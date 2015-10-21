@@ -2,28 +2,13 @@
     "docs": [
         {
             "location": "/", 
-            "text": "DockDogs\u00ae Scheduling\n\n\nWelcome to the thing!\n\n\nGetting Started\n\n\n\n\nBasics/Introduction\n\n\nStatus Icon Legend\n \n\n\n\n\nFrequently Asked Questions\n\n\n\n\nFAQS\n\n\n\n\nDevelopment\n\n\n\n\nProject Issue Tracking \n Reporting", 
+            "text": "DockDogs\u00ae Scheduling \n Logistics\n\n\nWelcome to the thing!\n\n\nGetting Started\n\n\n\n\nBasics/Introduction\n\n\nStatus Icon Legend\n \n\n\n\n\nFrequently Asked Questions\n\n\n\n\nFAQS\n\n\n\n\nDevelopment \n Contribution\n\n\n\n\nProject Issue Tracking \n Reporting", 
             "title": "Home"
         }, 
         {
-            "location": "/#dockdogs-scheduling", 
-            "text": "Welcome to the thing!", 
-            "title": "DockDogs\u00ae Scheduling"
-        }, 
-        {
-            "location": "/#getting-started", 
-            "text": "Basics/Introduction  Status Icon Legend", 
-            "title": "Getting Started"
-        }, 
-        {
-            "location": "/#frequently-asked-questions", 
-            "text": "FAQS", 
-            "title": "Frequently Asked Questions"
-        }, 
-        {
-            "location": "/#development", 
-            "text": "Project Issue Tracking   Reporting", 
-            "title": "Development"
+            "location": "/#dockdogs-scheduling-logistics", 
+            "text": "Welcome to the thing!  Getting Started   Basics/Introduction  Status Icon Legend     Frequently Asked Questions   FAQS   Development   Contribution   Project Issue Tracking   Reporting", 
+            "title": "DockDogs\u00ae Scheduling &amp; Logistics"
         }, 
         {
             "location": "/getting-started/basics-and-introduction/", 
