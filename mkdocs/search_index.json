@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "DockDogs\u00ae Scheduling\n\n\nWelcome to the thing!\n\n\nGetting Started\n\n\n\n\nBasics/Introduction\n\n\nStatus Icon Legend\n \n\n\n\n\nFrequently Asked Questions\n\n\n\n\nFAQS\n\n\n\n\nDevelopment\n\n\n\n\nProject Issue Tracking \n Reporting\n\n\n\n\n```", 
+            "text": "DockDogs\u00ae Scheduling\n\n\nWelcome to the thing!\n\n\nGetting Started\n\n\n\n\nBasics/Introduction\n\n\nStatus Icon Legend\n \n\n\n\n\nFrequently Asked Questions\n\n\n\n\nFAQS\n\n\n\n\nDevelopment\n\n\n\n\nProject Issue Tracking \n Reporting", 
             "title": "Home"
         }, 
         {
@@ -22,7 +22,7 @@
         }, 
         {
             "location": "/#development", 
-            "text": "Project Issue Tracking   Reporting   ```", 
+            "text": "Project Issue Tracking   Reporting", 
             "title": "Development"
         }, 
         {
