@@ -2,17 +2,17 @@
     "docs": [
         {
             "location": "/", 
-            "text": "DockDogs\u00ae Scheduling \n Logistics\n\n\nWelcome to the thing!\n\n\nGetting Started\n\n\n\n\nBasics/Introduction\n\n\nStatus Icon Legend\n \n\n\n\n\nFrequently Asked Questions\n\n\n\n\nFAQS\n\n\n\n\nDevelopment \n Contribution\n\n\n\n\nProject Issue Tracking \n Reporting", 
+            "text": "DockDogs\u00ae Scheduling \n Logistics\n\uf0c1\n\n\nWelcome to the thing!\n\n\nGetting Started\n\uf0c1\n\n\n\n\nBasics/Introduction\n\n\nStatus Icon Legend\n \n\n\n\n\nFrequently Asked Questions\n\uf0c1\n\n\n\n\nFAQS\n\n\n\n\nDevelopment \n Contribution\n\uf0c1\n\n\n\n\nProject Issue Tracking \n Reporting", 
             "title": "Home"
         }, 
         {
             "location": "/#dockdogs-scheduling-logistics", 
-            "text": "Welcome to the thing!  Getting Started   Basics/Introduction  Status Icon Legend     Frequently Asked Questions   FAQS   Development   Contribution   Project Issue Tracking   Reporting", 
+            "text": "Welcome to the thing!  Getting Started \uf0c1   Basics/Introduction  Status Icon Legend     Frequently Asked Questions \uf0c1   FAQS   Development   Contribution \uf0c1   Project Issue Tracking   Reporting", 
             "title": "DockDogs\u00ae Scheduling &amp; Logistics"
         }, 
         {
             "location": "/getting-started/basics-and-introduction/", 
-            "text": "Basics \n Introduction", 
+            "text": "Basics \n Introduction\n\uf0c1", 
             "title": "Basics and Introduction"
         }, 
         {
@@ -42,12 +42,12 @@
         }, 
         {
             "location": "/reporting/pre-built-sponsors-report/", 
-            "text": "Introduction\n\n\nThere are 3 pre-built sponsors reports available already configured inside of Smartsheet. These have pre-defined schedules assigned to them which will send an email to each sponsor on a weekly basis. An example report can be found \nbelow\n. \n\n\nConfirmed Versus Tentative Status\n\n\nOnly events with the \nGREEN\n or \nYELLOW\n status fields selected in the \nPOSTED\n column will be included in these reports. This ensures that sponsors are only notified of events that have been \nPOSTED\n on the \nDockDogs\n website and opened for registration.\n\n\n\n\nExample Sponsorship Reports\n\n\n\n\nBlue Buffalo Sponsorship Report Example", 
+            "text": "Introduction\n\uf0c1\n\n\nThere are 3 pre-built sponsors reports available already configured inside of Smartsheet. These have pre-defined schedules assigned to them which will send an email to each sponsor on a weekly basis. An example report can be found \nbelow\n. \n\n\nConfirmed Versus Tentative Status\n\uf0c1\n\n\nOnly events with the \nGREEN\n or \nYELLOW\n status fields selected in the \nPOSTED\n column will be included in these reports. This ensures that sponsors are only notified of events that have been \nPOSTED\n on the \nDockDogs\n website and opened for registration.\n\n\n\n\nExample Sponsorship Reports\n\uf0c1\n\n\n\n\nBlue Buffalo Sponsorship Report Example", 
             "title": "Pre-Built Sponsors Report"
         }, 
         {
             "location": "/reporting/pre-built-sponsors-report/#introduction", 
-            "text": "There are 3 pre-built sponsors reports available already configured inside of Smartsheet. These have pre-defined schedules assigned to them which will send an email to each sponsor on a weekly basis. An example report can be found  below .   Confirmed Versus Tentative Status  Only events with the  GREEN  or  YELLOW  status fields selected in the  POSTED  column will be included in these reports. This ensures that sponsors are only notified of events that have been  POSTED  on the  DockDogs  website and opened for registration.   Example Sponsorship Reports   Blue Buffalo Sponsorship Report Example", 
+            "text": "There are 3 pre-built sponsors reports available already configured inside of Smartsheet. These have pre-defined schedules assigned to them which will send an email to each sponsor on a weekly basis. An example report can be found  below .   Confirmed Versus Tentative Status \uf0c1  Only events with the  GREEN  or  YELLOW  status fields selected in the  POSTED  column will be included in these reports. This ensures that sponsors are only notified of events that have been  POSTED  on the  DockDogs  website and opened for registration.   Example Sponsorship Reports \uf0c1   Blue Buffalo Sponsorship Report Example", 
             "title": "Introduction"
         }, 
         {
