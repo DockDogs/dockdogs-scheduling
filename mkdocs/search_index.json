@@ -42,13 +42,13 @@
         }, 
         {
             "location": "/reporting/pre-built-sponsors-report/", 
-            "text": "Pre-Built Sponsors Report", 
+            "text": "Introduction\n\n\nThere are 3 pre-built sponsors reports available already configured inside of Smartsheet. These have pre-defined schedules assigned to them which will send an email to each sponsor on a weekly basis. An example report can be found \nbelow\n. \n\n\nConfirmed Versus Tentative Status\n\n\nOnly events with the \nGREEN\n or \nYELLOW\n status fields selected in the \nPOSTED\n column will be included in these reports. This ensures that sponsors are only notified of events that have been \nPOSTED\n on the \nDockDogs\n website and opened for registration.\n\n\n\n\nExample Sponsorship Reports\n\n\n\n\nBlue Buffalo Sponsorship Report Example", 
             "title": "Pre-Built Sponsors Report"
         }, 
         {
-            "location": "/reporting/pre-built-sponsors-report/#pre-built-sponsors-report", 
-            "text": "", 
-            "title": "Pre-Built Sponsors Report"
+            "location": "/reporting/pre-built-sponsors-report/#introduction", 
+            "text": "There are 3 pre-built sponsors reports available already configured inside of Smartsheet. These have pre-defined schedules assigned to them which will send an email to each sponsor on a weekly basis. An example report can be found  below .   Confirmed Versus Tentative Status  Only events with the  GREEN  or  YELLOW  status fields selected in the  POSTED  column will be included in these reports. This ensures that sponsors are only notified of events that have been  POSTED  on the  DockDogs  website and opened for registration.   Example Sponsorship Reports   Blue Buffalo Sponsorship Report Example", 
+            "title": "Introduction"
         }, 
         {
             "location": "/notifications/pre-build-notifications/", 
