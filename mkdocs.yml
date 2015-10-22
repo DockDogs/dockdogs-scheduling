@@ -1,7 +1,7 @@
 site_name: DockDogs Scheduling
 pages:
 - Home: index.md
-- Basics:
+- Get Started:
     - Basics and Introduction: getting-started/basics-and-introduction.md 
     - Status Icon Legend: getting-started/status-icon-legend.md
     - FAQS: getting-started/FAQs.md

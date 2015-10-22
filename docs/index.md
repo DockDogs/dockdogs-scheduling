@@ -1,45 +1,17 @@
-# DockDogs® Scheduling #
+![dockdogs_logo_400.png](https://bitbucket.org/repo/ppdrXq/images/3044493218-dockdogs_logo_400.png)
 
+# DockDogs® Scheduling & Logistics
 
-## Getting Started ##
+Welcome to the thing!
+
+### Getting Started
 * [Basics/Introduction](Basics and Introduction)
 * [Status Icon Legend](Status Icon Legend) 
+
+### Frequently Asked Questions
 * [FAQS](FAQs)
 
-## Reporting Functionality ##
-* [Reporting Basics](Reporting Basics)
-* [Pre-Built Sponsors Reports](Pre-Built Sponsors Report)
-* [Creating A New Report](Creating A New Report)
-
-## Notifications Functionality ##
-* [Notifications Basics](Notifications Basics)
-* [Pre-Built Notifications](Pre-Built Notifications)
-
-## Frequently Asked Questions ##
-* [FAQS](FAQs)
-
-## Development ##
+#### Development & Contribution
 * [Project Issue Tracking & Reporting](https://github.com/brianjking/DockDogs-scheduling/issues?q=is%3Aopen+is%3Aissue)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### THINGS ###
-```
-#!code
-
-$ git clone https://dockdogs@bitbucket.org/dockdogs/dockdogs-scheduling.git/wiki
-
-```
+[![Stories in Ready](https://badge.waffle.io/brianjking/DockDogs-scheduling.svg?label=ready&title=Ready)](http://waffle.io/brianjking/DockDogs-scheduling)
