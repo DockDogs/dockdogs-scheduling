@@ -67,17 +67,6 @@
         
             <ul>
             
-                <li class="toctree-l3"><a href="#neova-event-processing-changelog-release-notes">Neova Event Processing Changelog &amp; Release Notes</a></li>
-                
-                    <li><a class="toctree-l4" href="#dd3-pr21-1-october-2015">DD3-PR2.1 - 1 October 2015</a></li>
-                
-                    <li><a class="toctree-l4" href="#dd3-pr2-29-september-2015">DD3-PR2 - 29 September 2015</a></li>
-                
-                    <li><a class="toctree-l4" href="#dd3-pr11-15-september-2015">DD3-PR1.1 - 15 September 2015</a></li>
-                
-                    <li><a class="toctree-l4" href="#dd3-pr1-11-september-2015">DD3-PR1 - 11 September 2015</a></li>
-                
-            
             </ul>
         
     </li>
@@ -187,78 +176,7 @@
           <div role="main">
             <div class="section">
               
-                <h2 id="neova-event-processing-changelog-release-notes">Neova Event Processing Changelog &amp; Release Notes<a class="headerlink" href="#neova-event-processing-changelog-release-notes" title="Permanent link"></a></h2>
-<h3 id="dd3-pr21-1-october-2015"><strong>DD3-PR2.1 - 1 October 2015</strong><a class="headerlink" href="#dd3-pr21-1-october-2015" title="Permanent link"></a></h3>
-<h4 id="new-features-functionality-in-dd3-pr21-1-october-2015">New Features &amp; Functionality in DD3-PR2.1 - 1 October 2015<a class="headerlink" href="#new-features-functionality-in-dd3-pr21-1-october-2015" title="Permanent link"></a></h4>
-<ul>
-<li>Title Reduction Highest Title Mismatch squashed. ~~<em>(DD3-937)</em>~~</li>
-</ul>
-<hr />
-<h3 id="dd3-pr2-29-september-2015"><strong>DD3-PR2 - 29 September 2015</strong><a class="headerlink" href="#dd3-pr2-29-september-2015" title="Permanent link"></a></h3>
-<h4 id="new-features-functionality-in-dd3-pr2-29-september-2015">New Features &amp; Functionality in DD3-PR2 - 29 September 2015<a class="headerlink" href="#new-features-functionality-in-dd3-pr2-29-september-2015" title="Permanent link"></a></h4>
-<hr />
-<ul>
-<li><em>Regular Finals</em> for Speed Retrieve &amp; Extreme Vertical have now been fixed. ~~<em>(DD3-807, DD3-396, DD3-810, DD3-808, DD3-679)</em>~~</li>
-<li>Last update to production (DD3-PR1.1) introduced an issue where some teams couldn't reset password from system generated password. This has been fixed. ~~<em>(DD3-825)</em>~~</li>
-<li><em>Special Finals</em> for Speed Retrieve &amp; Extreme Vertical have now been hidden as we do not use them. ~~<em>(DD3-396)</em>~~</li>
-<li>As an Onsite Admin/Office Admin you're now able to remove a team from a Wave using the "Delete" icon when in the "Groups" tab of any Big Air, Speed Retrieve, or Extreme Vertical Wave. <em>Please note that you cannot remove teams from Iron Dog Waves at this time. (DD4-78 &amp; DD4-79) _ </em><strong>It is VERY IMPORTANT to NOT USE THE "VIEW REGISTRATIONS" feature to delete any teams from Waves after an event begins as they will be deleted, however, the legs will remain towards a Title and WE DO NOT have a method of deleting them.</strong>_</li>
-<li>To delete a Team from a Wave you must set their "STATUS" field to a "STATUS" of something other than "OK" or "--". <em>Acceptable values are "SCRATCH", "TIMEOUT", "DNQ", "DQ". You must select this status for BOTH J1 &amp; J2 of the team you're looking to remove before clicking the Delete button in the corresponding row.</em></li>
-<li>Transactions Log now improved and shows in the appropriate accordion mode and doesn't have a broken UI when expanding for additional details. Simply click a row and it expands with the details. <em>Office Admin only</em> ~~<em>(DD3-805)</em>~~</li>
-<li><strong>WAVES NO LONGER CLOSE 30 minutes before the Wave starts.</strong> Onsite Admins &amp; Office Admins can now ADD TEAMS throughout the entire course of the event to any Wave(s). ~~<em>(DD3-172 EPIC)</em>~~</li>
-<li>"Active" Status Indicator on "EV Score Sheet" is now showing the correct designations. ~~<em>(DD3-347)</em>~~ </li>
-<li>Fixed an issue where if there are 0 teams in the First Wave the Bubble Sheet &amp; Alternates for Big Air Finals would not generate ~~<em>(DD3-698)</em>~~</li>
-<li>SSL Certificates for dockdogsevents.com &amp; manager.dockdogsevents.com have been updated to continue to keep the application secure. ~~<em>(DD3-783)</em>~~</li>
-<li>Fixes for dockdogs.com &amp; dockdogsevents.com Rankings UI to standardize columns &amp; PDF exports. ~~<em>(DD3-9 &amp; DD3-699)</em>~~</li>
-<li>Fixes for dockdogs.com Title Lists &amp; PDF exports ~~<em>(DD3-240)</em>~~</li>
-</ul>
-<h4 id="known-issues-important-notes-with-dd3-pr2-29-september-2015">Known Issues &amp; Important Notes with DD3-PR2 - 29 September 2015<a class="headerlink" href="#known-issues-important-notes-with-dd3-pr2-29-september-2015" title="Permanent link"></a></h4>
-<ul>
-<li>When deleting teams from Waves status field must be something other than "OK" or "--". <em>Acceptable values are "SCRATCH", "TIMEOUT", "DNQ", "DQ". You must select this status for BOTH J1 &amp; J2 of the team you're looking to remove before clicking the Delete button in the corresponding row.</em></li>
-<li>Cannot use <strong>"View Registrations"</strong> to delete teams after scores have been assigned or we'll end up with extra legs assigned. <strong>VERY IMPORTANT</strong>.</li>
-<li>Some issues with rankings are being resolved and will be posted as a patch ASAP. </li>
-<li>You cannot delete a team from an Iron Dog Wave at this time. <em>(DD4-78 &amp; DD4-79)</em></li>
-<li><strong>It is VERY IMPORTANT that you fill in the boxes with details as to why you're discounting using a coupon or issuing a complimentary Wave.</strong></li>
-<li>Title Reduction Highest Title Mismatch (DD3-937)</li>
-<li>Titles PDF Export on dockdogs.com is creating corrupt PDFs despite working on staging environment, expect to be patched shortly. ~~<em>(DD3-935)</em>~~</li>
-</ul>
-<h3 id="dd3-pr11-15-september-2015"><strong>DD3-PR1.1 - 15 September 2015</strong><a class="headerlink" href="#dd3-pr11-15-september-2015" title="Permanent link"></a></h3>
-<h4 id="new-features-functionality-in-dd3-pr11-15-september-2015">New Features &amp; Functionality in DD3-PR1.1 - 15 September 2015<a class="headerlink" href="#new-features-functionality-in-dd3-pr11-15-september-2015" title="Permanent link"></a></h4>
-<ul>
-<li>Manually overriding standings in Big Air, Speed Retrieve, Extreme Vertical or Iron Dog Finals no longer causes the user interace to break. ~~<em>(DD3-811)</em>~~</li>
-</ul>
-<h4 id="known-issues-with-dd3-pr1-11-september-2015">Known Issues with DD3-PR1 - 11 September 2015<a class="headerlink" href="#known-issues-with-dd3-pr1-11-september-2015" title="Permanent link"></a></h4>
-<ul>
-<li>If attempting to add a new team as an onsite administrator and a Handler with the same FIRST NAME, LAST NAME, &amp; EMAIL ADDRESS exist you'll be shown an error messsage stating to enter their username and use the "Already a Handler" button. <em>(DD3X-3)</em></li>
-<li>Printed receipts may show incorrect price for Youth Handlers on them. <em>(DD4-50)</em></li>
-<li><em>"Regular Finals"</em> &amp; <em>"Special Finals"</em> types for Speed Retrieve &amp; Extreme Vertical are not working properly. <em>(DD3-807, DD3-396, DD3-810, DD3-808, DD3-679)</em></li>
-</ul>
-<h3 id="dd3-pr1-11-september-2015"><strong>DD3-PR1 - 11 September 2015</strong><a class="headerlink" href="#dd3-pr1-11-september-2015" title="Permanent link"></a></h3>
-<h4 id="new-features-functionality-in-dd3-pr1-11-september-2015">New Features &amp; Functionality in DD3-PR1 - 11 September 2015<a class="headerlink" href="#new-features-functionality-in-dd3-pr1-11-september-2015" title="Permanent link"></a></h4>
-<hr />
-<ul>
-<li>You can now enter scores for Big Air, Speed Retrieve, &amp; Extreme Vertical by typing into the boxes. <em>(How fast is it now?)</em></li>
-<li>You can now use the TAB KEY on the keyboard to tab between J1 &amp; J2 fields for Big Air, Speed Retrieve, &amp; Extreme Vertical. After entering J2 clicking tab again will take you to the next row.</li>
-<li>The <strong>STATUS</strong> field now defaults to <strong>OK</strong> in all disciplines. <strong><em>When using the TAB key to navigate between score entry fields you will need to click TWICE when going from J1 to J2 as the 1st click of TAB from the J1 box will activate the dropdown for the status field, clicking the 2nd time will move the cursor to J2.</em></strong></li>
-<li>When processing BA, SR, &amp; EV Finals you will no longer be tormented by the neverending sound of your mouse as you click "Add Alternates" one by one until the end of time. You can now select multiple alternates all in one swift click of the "Add Alternates" button. <strong>Be sure to generate/re-regenrate the Bubble Sheet before attempting to process finalists. <em>Be sure to click on the Waves tab of each wave to record legs towards titles while processing events.</em></strong></li>
-<li>Since you're not magic and people are not born in the future onsite admins, office admins, and Handlers are all prohibited from entering a DOB that is in the future. The same is true of a dog's DOB. </li>
-<li>The dreaded "Add New Team" error messages lacking any feedback as to what's wrong are banished, we've kicked them off the island never to return.</li>
-<li>You can now add Handlers &amp; Dogs with apostrophes in their names. </li>
-<li>Editing Handlers &amp; Teams as an office admin is now fixed for those Handlers &amp; Teams that we couldn't previously fix.</li>
-<li>Handlers that couldn't edit their own accounts/teams can now do so without issue.</li>
-<li>Newly created teams for all user types default to <strong><em>LAP DOG == NO.</em></strong> <em>(Just because your dog sits on your lap doesn't make your Great Dane a Lap Dog.)</em></li>
-<li>Financial Transactions Log has the enhancements included. <em>(Office Admin only)</em></li>
-<li>BA, SR, EV, &amp; Regular ID PDFs now print on legal size paper in landscape orientation. <strong><em>PLEASE DO NOT PRINT THESE REPORTS AS YOU SHOULD CONTINUE USING EXCEL AND/OR A5 UNTIL FURTHER NOTICE AS YOUR PRIMARY EVENT PROCESSING RESOURCE.</em></strong></li>
-<li>Various typos have been corrected throughout the admin &amp; handler areas.</li>
-<li>Event Registration flow shows Team Name &amp; Dog Name, no more confusion if a handler has multiple dogs which participate under the same <em>Team Name</em>.</li>
-<li>Columns are displaying the correct details and are finally <em>nearly</em> usable throughout the manager.dockdogsevents.com application.</li>
-<li>PDF/Printed reports no longer have overlapping text, are all formatted landscape, use legal size paper, etc. </li>
-</ul>
-<h4 id="known-issues-with-dd3-pr1-11-september-2015_1">Known Issues with DD3-PR1 - 11 September 2015<a class="headerlink" href="#known-issues-with-dd3-pr1-11-september-2015_1" title="Permanent link"></a></h4>
-<ul>
-<li>Manually overriding standings in Big Air Finals causes the user interface to break <em>(DD3-811)</em></li>
-<li>If attempting to add a new team as an onsite administrator and a Handler with the same FIRST NAME, LAST NAME, &amp; EMAIL ADDRESS exist you'll be shown an error messsage stating to enter their username and use the "Already a Handler" button. <em>(DD3X-3)</em></li>
-<li>Printed receipts may show incorrect price for Youth Handlers on them. <em>(DD4-50)</em></li>
-</ul>
+                
               
             </div>
           </div>
