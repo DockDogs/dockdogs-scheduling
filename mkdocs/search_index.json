@@ -31,11 +31,6 @@
             "title": "Reporting Basics"
         }, 
         {
-            "location": "/reporting/creating-a-new-report/", 
-            "text": "Things", 
-            "title": "Creating A New Report"
-        }, 
-        {
             "location": "/reporting/pre-built-sponsors-report/", 
             "text": "Introduction\n\uf0c1\n\n\nThere are 3 pre-built sponsors reports available already configured inside of Smartsheet. These have pre-defined schedules assigned to them which will send an email to each sponsor on a weekly basis. An example report can be found \nbelow\n. \n\n\nSelecting A Sponsor\n\uf0c1\n\n\nIn order to have an event show in the \nSPONSORSHIP REPORTS\n you need to designate which sponsor will have their dock at the event. This can be done by using the \nSPONSOR\n column inside of Smartsheet. \n\n\nConfirmed Versus Tentative Status\n\uf0c1\n\n\nOnly events with the \nGREEN\n or \nYELLOW\n status fields selected in the \nPOSTED\n column will be included in these reports. This ensures that sponsors are only notified of events that have been \nPOSTED\n on the \nDockDogs\n website and opened for registration.\n\n\n\n\nExample Sponsorship Reports\n\uf0c1\n\n\n\n\nBlue Buffalo Sponsorship Report Example", 
             "title": "Pre-Built Sponsors Report"
@@ -44,6 +39,16 @@
             "location": "/reporting/pre-built-sponsors-report/#introduction", 
             "text": "There are 3 pre-built sponsors reports available already configured inside of Smartsheet. These have pre-defined schedules assigned to them which will send an email to each sponsor on a weekly basis. An example report can be found  below .   Selecting A Sponsor \uf0c1  In order to have an event show in the  SPONSORSHIP REPORTS  you need to designate which sponsor will have their dock at the event. This can be done by using the  SPONSOR  column inside of Smartsheet.   Confirmed Versus Tentative Status \uf0c1  Only events with the  GREEN  or  YELLOW  status fields selected in the  POSTED  column will be included in these reports. This ensures that sponsors are only notified of events that have been  POSTED  on the  DockDogs  website and opened for registration.   Example Sponsorship Reports \uf0c1   Blue Buffalo Sponsorship Report Example", 
             "title": "Introduction"
+        }, 
+        {
+            "location": "/reporting/events-team-reports/", 
+            "text": "", 
+            "title": "Events Team Reports"
+        }, 
+        {
+            "location": "/reporting/creating-a-new-report/", 
+            "text": "Things", 
+            "title": "Creating A New Report"
         }, 
         {
             "location": "/notifications/pre-build-notifications/", 
