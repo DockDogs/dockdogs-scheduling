@@ -42,8 +42,18 @@
         }, 
         {
             "location": "/reporting/events-team-reports/", 
-            "text": "", 
+            "text": "Introduction\n\uf0c1\n\n\nTypes of Reports\n\uf0c1", 
             "title": "Events Team Reports"
+        }, 
+        {
+            "location": "/reporting/events-team-reports/#introduction", 
+            "text": "Types of Reports \uf0c1", 
+            "title": "Introduction"
+        }, 
+        {
+            "location": "/reporting/other-reports/", 
+            "text": "", 
+            "title": "Other Reports"
         }, 
         {
             "location": "/reporting/creating-a-new-report/", 
