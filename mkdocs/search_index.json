@@ -52,7 +52,7 @@
         }, 
         {
             "location": "/reporting/other-reports/", 
-            "text": "Contracts \n Deposits Report\n\uf0c1\n\n\n\n\nContracts \n Deposits Report Example", 
+            "text": "Contracts \n Deposits Report\n\uf0c1\n\n\nThis report shows all events and the status of their \nCONTRACT\n and \nDEPOSIT\n being received and processed by DockDogs.\n\n\n\n\n\n\nContracts \n Deposits Report Example\n\n\n\n\nReconciled Report\n\uf0c1\n\n\nThis report shows the status of an event reconciliation being completed for specific events. This is a quick way for Theresa, Teresa, \n Grant to know if an event has been reconciled, is waiting to be reviewed, or is not yet ready for a review.\n\n\n\n\nReconcilied Report Criteria\n\n\nEvent Series\n is: Affiliated Club, Facility Series, Fun Jump, Club Event @ Facility\n\n\nEvent End Date\n is in the past.\n\n\nA status has been entered for the \nReconciled\n column in the corresponding row.\n\n\n\n\n\n\nReconciled Report Example", 
             "title": "Other Reports"
         }, 
         {
