@@ -2,14 +2,14 @@
 
 # DockDogs® Scheduling & Logistics
 
-Welcome to the thing!
+Welcome to the Documentation for the DockDogs Scheduling & Logistics Help Site.
 
 ### Getting Started
-* [Basics/Introduction](Basics and Introduction)
-* [Status Icon Legend](Status Icon Legend) 
+* [Basics/Introduction](getting-started/basics-and-introduction/)
+* [Status Icon Legend](getting-started/status-icon-legend/) 
 
 ### Frequently Asked Questions
-* [FAQS](FAQs)
+* [FAQS](getting-started/FAQs)
 
 #### Development & Contribution
 * [Project Issue Tracking & Reporting](https://github.com/brianjking/DockDogs-scheduling/issues?q=is%3Aopen+is%3Aissue)

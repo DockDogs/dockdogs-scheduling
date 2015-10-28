@@ -2,62 +2,72 @@
     "docs": [
         {
             "location": "/", 
-            "text": "DockDogs\u00ae Scheduling \n Logistics\n\n\nWelcome to the thing!\n\n\nGetting Started\n\n\n\n\nBasics/Introduction\n\n\nStatus Icon Legend\n \n\n\n\n\nFrequently Asked Questions\n\n\n\n\nFAQS\n\n\n\n\nDevelopment \n Contribution\n\n\n\n\nProject Issue Tracking \n Reporting", 
+            "text": "DockDogs\u00ae Scheduling \n Logistics\n\uf0c1\n\n\nWelcome to the Documentation for the DockDogs Scheduling \n Logistics Help Site.\n\n\nGetting Started\n\uf0c1\n\n\n\n\nBasics/Introduction\n\n\nStatus Icon Legend\n \n\n\n\n\nFrequently Asked Questions\n\uf0c1\n\n\n\n\nFAQS\n\n\n\n\nDevelopment \n Contribution\n\uf0c1\n\n\n\n\nProject Issue Tracking \n Reporting", 
             "title": "Home"
         }, 
         {
             "location": "/#dockdogs-scheduling-logistics", 
-            "text": "Welcome to the thing!  Getting Started   Basics/Introduction  Status Icon Legend     Frequently Asked Questions   FAQS   Development   Contribution   Project Issue Tracking   Reporting", 
+            "text": "Welcome to the Documentation for the DockDogs Scheduling   Logistics Help Site.  Getting Started \uf0c1   Basics/Introduction  Status Icon Legend     Frequently Asked Questions \uf0c1   FAQS   Development   Contribution \uf0c1   Project Issue Tracking   Reporting", 
             "title": "DockDogs\u00ae Scheduling &amp; Logistics"
         }, 
         {
             "location": "/getting-started/basics-and-introduction/", 
-            "text": "Basics \n Introduction", 
+            "text": "Mobile Access\n\uf0c1\n\n\n\n\niPhone \n iPad Smartsheet Apps\n\n\nAndroid OS Smartsheet Apps", 
             "title": "Basics and Introduction"
         }, 
         {
-            "location": "/getting-started/basics-and-introduction/#basics-introduction", 
-            "text": "", 
-            "title": "Basics &amp; Introduction"
-        }, 
-        {
             "location": "/getting-started/status-icon-legend/", 
-            "text": "Red\n\n\nYellow\n\n\nGreen\n\n\nBlue", 
+            "text": "Awards\n\uf0c1\n\n\n\n\nPlease use the following icons for determining the status of Awards.\n\n\nRed - No awards \n\n\nYellow - Awards needed, not yet ordered.\n\n\nBlue - Use this for \nAC\n series events that do not utilize DockDogs Awards.\n\n\nGreen - Awards have been ordered.\n\n\n\n\n\n\n\n\nPosted\n\uf0c1\n\n\n\n\nPlease use the following icons for identifying if the event has been posted \n opened for registration. Note: This field is also used for several reports such as the \nSponsorship Reports\n \n\n\nRed - \n\n\nYellow - \n\n\nBlue - \n\n\nGreen - All pre-requisites have been met. Event has been posted to our website.\n\n\n\n\n\n\n\n\nHotels\n\uf0c1\n\n\n\n\nPlease use the following icons for identifying the status of hotels for our staff being acquired/if they need to be acquired/etc. \n\n\nRed - \n\n\nYellow - \n\n\nBlue - \n\n\nGreen - \n\n\n\n\n\n\n\n\nInsurance\n\uf0c1\n\n\n\n\nPlease use the following icons for identifying the status of purchasing insurance for a given event. \n\n\nRed - \n\n\nYellow -\n\n\nBlue - Club event, we don't order insurance for this. \n\n\nGreen - Insurance has been ordered.\n\n\n\n\n\n\n\n\nSent To Staff\n\uf0c1\n\n\n\n\nPlease use the following icons for identifying the status of sending an event schedule to the events team members listed under the various positions. This pertains to \nEvents Team Reports\n.\n\n\nRed - \n\n\nYellow - \n\n\nBlue - Tentative staff selection and/or event.\n\n\nGreen - Confirmed.", 
             "title": "Status Icon Legend"
         }, 
         {
             "location": "/getting-started/FAQs/", 
-            "text": "Things", 
+            "text": "Coming soon...", 
             "title": "FAQS"
         }, 
         {
             "location": "/reporting/reporting-basics/", 
-            "text": "Basics", 
+            "text": "Coming soon...", 
             "title": "Reporting Basics"
         }, 
         {
+            "location": "/reporting/pre-built-sponsors-report/", 
+            "text": "Introduction\n\uf0c1\n\n\nThere are 3 pre-built sponsors reports available already configured inside of Smartsheet. These have pre-defined schedules assigned to them which will send an email to each sponsor on a weekly basis. An example report can be found \nbelow\n. \n\n\nSelecting A Sponsor\n\uf0c1\n\n\nIn order to have an event show in the \nSPONSORSHIP REPORTS\n you need to designate which sponsor will have their dock at the event. This can be done by using the \nSPONSOR\n column inside of Smartsheet. \n\n\nConfirmed Versus Tentative Status\n\uf0c1\n\n\nOnly events with the \nGREEN\n or \nYELLOW\n status fields selected in the \nPOSTED\n column will be included in these reports. This ensures that sponsors are only notified of events that have been \nPOSTED\n on the \nDockDogs\n website and opened for registration.\n\n\n\n\nExample Sponsorship Reports\n\uf0c1\n\n\n\n\nBlue Buffalo Sponsorship Report Example", 
+            "title": "Pre-Built Sponsors Report"
+        }, 
+        {
+            "location": "/reporting/pre-built-sponsors-report/#introduction", 
+            "text": "There are 3 pre-built sponsors reports available already configured inside of Smartsheet. These have pre-defined schedules assigned to them which will send an email to each sponsor on a weekly basis. An example report can be found  below .   Selecting A Sponsor \uf0c1  In order to have an event show in the  SPONSORSHIP REPORTS  you need to designate which sponsor will have their dock at the event. This can be done by using the  SPONSOR  column inside of Smartsheet.   Confirmed Versus Tentative Status \uf0c1  Only events with the  GREEN  or  YELLOW  status fields selected in the  POSTED  column will be included in these reports. This ensures that sponsors are only notified of events that have been  POSTED  on the  DockDogs  website and opened for registration.   Example Sponsorship Reports \uf0c1   Blue Buffalo Sponsorship Report Example", 
+            "title": "Introduction"
+        }, 
+        {
+            "location": "/reporting/events-team-reports/", 
+            "text": "Introduction\n\uf0c1\n\n\nTypes of Reports\n\uf0c1", 
+            "title": "Events Team Reports"
+        }, 
+        {
+            "location": "/reporting/events-team-reports/#introduction", 
+            "text": "Types of Reports \uf0c1", 
+            "title": "Introduction"
+        }, 
+        {
+            "location": "/reporting/other-reports/", 
+            "text": "Contracts \n Deposits Report\n\uf0c1\n\n\nThis report shows all events and the status of their \nCONTRACT\n and \nDEPOSIT\n being received and processed by DockDogs.\n\n\n\n\n\n\nContracts \n Deposits Report Example\n\n\n\n\nReconciled Report\n\uf0c1\n\n\nThis report shows the status of an event reconciliation being completed for specific events. This is a quick way for Theresa, Teresa, \n Grant to know if an event has been reconciled, is waiting to be reviewed, or is not yet ready for a review.\n\n\n\n\n\n\nReconcilied Report Criteria\n\n\nEvent Series\n is: Affiliated Club, Facility Series, Fun Jump, Club Event @ Facility\n\n\nEvent End Date\n is in the past.\n\n\nA status has been entered for the \nReconciled\n column in the corresponding row.\n\n\n\n\n\n\nFor events that are not reconciled \n invoiced like the \nEVENT SERIES\n above simply mark this with a \nNO\n icon. This will be excluded from appearing on the \nRECONCILED REPORT\n.\n\n\nReconciled Report Example", 
+            "title": "Other Reports"
+        }, 
+        {
             "location": "/reporting/creating-a-new-report/", 
-            "text": "Things", 
+            "text": "Coming soon...", 
             "title": "Creating A New Report"
         }, 
         {
-            "location": "/reporting/pre-built-sponsors-report/", 
-            "text": "Pre-Built Sponsors Report", 
-            "title": "Pre-Built Sponsors Report"
-        }, 
-        {
-            "location": "/reporting/pre-built-sponsors-report/#pre-built-sponsors-report", 
-            "text": "", 
-            "title": "Pre-Built Sponsors Report"
-        }, 
-        {
             "location": "/notifications/pre-build-notifications/", 
-            "text": "Things", 
+            "text": "Coming soon...", 
             "title": "Pre-Built Notifications"
         }, 
         {
             "location": "/notifications/notifications-basics/", 
-            "text": "Things", 
+            "text": "Coming soon...", 
             "title": "Notification Basics"
         }
     ]
