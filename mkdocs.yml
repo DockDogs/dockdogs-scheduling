@@ -3,7 +3,7 @@ pages:
 - Home: index.md
 - Get Started:
     - Basics and Introduction: getting-started/basics-and-introduction.md 
-    - Status Icon Legend: getting-started/status-icon-legend.md
+    - Status Identifiers: getting-started/status-identifiers.md
     - FAQS: getting-started/FAQs.md
 - Reporting:
     - Reporting Basics: reporting/reporting-basics.md

@@ -16,9 +16,9 @@
             "title": "Basics and Introduction"
         }, 
         {
-            "location": "/getting-started/status-icon-legend/", 
-            "text": "Awards\n\uf0c1\n\n\n\n\nPlease use the following icons for determining the status of Awards.\n\n\nRed - No awards \n\n\nYellow - Awards needed, not yet ordered.\n\n\nBlue - Use this for \nAC\n series events that do not utilize DockDogs Awards.\n\n\nGreen - Awards have been ordered.\n\n\n\n\n\n\n\n\nPosted\n\uf0c1\n\n\n\n\nPlease use the following icons for identifying if the event has been posted \n opened for registration. Note: This field is also used for several reports such as the \nSponsorship Reports\n \n\n\nRed - \n\n\nYellow - \n\n\nBlue - \n\n\nGreen - All pre-requisites have been met. Event has been posted to our website.\n\n\n\n\n\n\n\n\nHotels\n\uf0c1\n\n\n\n\nPlease use the following icons for identifying the status of hotels for our staff being acquired/if they need to be acquired/etc. \n\n\nRed - \n\n\nYellow - \n\n\nBlue - \n\n\nGreen - \n\n\n\n\n\n\n\n\nInsurance\n\uf0c1\n\n\n\n\nPlease use the following icons for identifying the status of purchasing insurance for a given event. \n\n\nRed - \n\n\nYellow -\n\n\nBlue - Club event, we don't order insurance for this. \n\n\nGreen - Insurance has been ordered.\n\n\n\n\n\n\n\n\nSent To Staff\n\uf0c1\n\n\n\n\nPlease use the following icons for identifying the status of sending an event schedule to the events team members listed under the various positions. This pertains to \nEvents Team Reports\n.\n\n\nRed - \n\n\nYellow - \n\n\nBlue - Tentative staff selection and/or event.\n\n\nGreen - Confirmed.", 
-            "title": "Status Icon Legend"
+            "location": "/getting-started/status-identifiers/", 
+            "text": "Awards\n\uf0c1\n\n\n\n\nPlease use the following icons for determining the status of Awards.\n\n\nRed - No awards \n\n\nYellow - Awards needed, not yet ordered.\n\n\nBlue - Use this for \nAC\n series events that do not utilize DockDogs Awards.\n\n\nGreen - Awards have been ordered.\n\n\n\n\n\n\n\n\nPosted\n\uf0c1\n\n\n\n\nPlease use the following icons for identifying if the event has been posted \n opened for registration. Note: This field is also used for several reports such as the \nSponsorship Reports\n \n\n\nRed - \n\n\nYellow - Event is \n\n\nBlue - \n\n\nGreen - All pre-requisites have been met. Event has been posted to our website.\n\n\n\n\n\n\n\n\nHotels\n\uf0c1\n\n\n\n\nPlease use the following icons for identifying the status of hotels for our staff being acquired/if they need to be acquired/etc. \n\n\nRed - \n\n\nYellow - \n\n\nBlue - \n\n\nGreen - \n\n\n\n\n\n\n\n\nInsurance\n\uf0c1\n\n\n\n\nPlease use the following icons for identifying the status of purchasing insurance for a given event. \n\n\nRed - \n\n\nYellow -\n\n\nBlue - Club event, we don't order insurance for this. \n\n\nGreen - Insurance has been ordered.\n\n\n\n\n\n\n\n\nSent To Staff\n\uf0c1\n\n\n\n\nPlease use the following icons for identifying the status of sending an event schedule to the events team members listed under the various positions. This pertains to \nEvents Team Reports\n.\n\n\nRed - \n\n\nYellow - \n\n\nBlue - Tentative staff selection and/or event.\n\n\nGreen - Confirmed.", 
+            "title": "Status Identifiers"
         }, 
         {
             "location": "/getting-started/FAQs/", 
@@ -27,7 +27,7 @@
         }, 
         {
             "location": "/reporting/reporting-basics/", 
-            "text": "Coming soon...", 
+            "text": "Reporting Tips\n\uf0c1\n\n\n\n\nReporting Tips from Smartsheet\n\n\nSending \n Sharing Reports\n\n\nAssigning People to a Task\n\n\nManaging Contacts\n\n\n\n\nComing soon...", 
             "title": "Reporting Basics"
         }, 
         {
@@ -42,17 +42,17 @@
         }, 
         {
             "location": "/reporting/events-team-reports/", 
-            "text": "Introduction\n\uf0c1\n\n\nTypes of Reports\n\uf0c1", 
+            "text": "Introduction\n\uf0c1\n\n\nMembers of the Events Team will receive their schedules via email on a pre-defined scheduled basis. These can arrive as a PDF or Excel document.\n\n\nTypes of Reports\n\uf0c1\n\n\nA report must be created new or duplicated from an existing report of a matching type for each new events team member. \nIf a person is BOTH a DRIVER and/or an EVENT MANAGER then this must be specified as such when creating the report.\n\n\nConfirmed Versus Tentative Status\n\uf0c1\n\n\nOnly events with the \nGREEN\n or \nYELLOW\n status fields selected in the \nPOSTED\n column will be included in these reports. This ensures that sponsors are only notified of events that have been \nPOSTED\n on the \nDockDogs\n website and opened for registration.\n\n\n\n\nSent To Staff\n\uf0c1\n\n\nOnly events with the \nGREEN\n or \nBLUE\n will appear on reports for Events Team Reporting.", 
             "title": "Events Team Reports"
         }, 
         {
             "location": "/reporting/events-team-reports/#introduction", 
-            "text": "Types of Reports \uf0c1", 
+            "text": "Members of the Events Team will receive their schedules via email on a pre-defined scheduled basis. These can arrive as a PDF or Excel document.  Types of Reports \uf0c1  A report must be created new or duplicated from an existing report of a matching type for each new events team member.  If a person is BOTH a DRIVER and/or an EVENT MANAGER then this must be specified as such when creating the report.  Confirmed Versus Tentative Status \uf0c1  Only events with the  GREEN  or  YELLOW  status fields selected in the  POSTED  column will be included in these reports. This ensures that sponsors are only notified of events that have been  POSTED  on the  DockDogs  website and opened for registration.   Sent To Staff \uf0c1  Only events with the  GREEN  or  BLUE  will appear on reports for Events Team Reporting.", 
             "title": "Introduction"
         }, 
         {
             "location": "/reporting/other-reports/", 
-            "text": "Contracts \n Deposits Report\n\uf0c1\n\n\nThis report shows all events and the status of their \nCONTRACT\n and \nDEPOSIT\n being received and processed by DockDogs.\n\n\n\n\n\n\nContracts \n Deposits Report Example\n\n\n\n\nReconciled Report\n\uf0c1\n\n\nThis report shows the status of an event reconciliation being completed for specific events. This is a quick way for Theresa, Teresa, \n Grant to know if an event has been reconciled, is waiting to be reviewed, or is not yet ready for a review.\n\n\n\n\n\n\nReconcilied Report Criteria\n\n\nEvent Series\n is: Affiliated Club, Facility Series, Fun Jump, Club Event @ Facility\n\n\nEvent End Date\n is in the past.\n\n\nA status has been entered for the \nReconciled\n column in the corresponding row.\n\n\n\n\n\n\nFor events that are not reconciled \n invoiced like the \nEVENT SERIES\n above simply mark this with a \nNO\n icon. This will be excluded from appearing on the \nRECONCILED REPORT\n.\n\n\nReconciled Report Example", 
+            "text": "Contracts \n Deposits Report\n\uf0c1\n\n\nThis report shows all events and the status of their \nCONTRACT\n and \nDEPOSIT\n being received and processed by DockDogs.\n\n\n\n\n\n\nContracts \n Deposits Report Example\n\n\n\n\nReconciled Report\n\uf0c1\n\n\nThis report shows the status of an event reconciliation being completed for specific events. This is a quick way for Theresa, Teresa, \n Grant to know if an event has been reconciled, is waiting to be reviewed, or is not yet ready for a review.\n\n\n\n\n\n\nReconcilied Report Criteria\n\n\nEvent Series\n is: Affiliated Club, Facility Series, Fun Jump, Club Event @ Facility\n\n\nEvent End Date\n is in the past.\n\n\nA status has been entered for the \nReconciled\n column in the corresponding row.\n\n\n\n\n\n\nFor events that are not reconciled \n invoiced like the \nEVENT SERIES\n above simply mark this with a \nNO\n icon. This will be excluded from appearing on the \nRECONCILED REPORT\n.\n\n\nReconciled Report Example\n\n\n\n\nAdditional Reports\n\uf0c1\n\n\n\n\nAdditional Reports are coming soon...", 
             "title": "Other Reports"
         }, 
         {
