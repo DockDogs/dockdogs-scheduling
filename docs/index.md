@@ -2,7 +2,7 @@
 
 # DockDogs® Scheduling & Logistics
 
-Welcome to the Documentation for the DockDogs Scheduling & Logistics Help Site.
+Welcome to the Documentation for the DockDogs Scheduling & Logistics Help Site. Please see [Basics & Introduction](getting-started/basics-and-introduction/) in order to access the Smartsheet. 
 
 ### Getting Started
 * [Basics/Introduction](getting-started/basics-and-introduction/)

@@ -1,7 +1,6 @@
-### Pre-Built Notifications
+Smartsheet has the capability of notifying people via email when certain things change inside of the sheet.
 
-
-* Smartsheet has the capability of notifying people via email when certain things change inside of the sheet.
+Below is a list of the curent notifications setup as of 23 December 2015 @ 15:21pm CST.
 
 ### Current Notifications Setup
 
