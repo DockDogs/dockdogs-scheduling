@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "DockDogs\u00ae Scheduling \n Logistics\n\uf0c1\n\n\nWelcome to the Documentation for the DockDogs Scheduling \n Logistics Help Site.\n\n\nGetting Started\n\uf0c1\n\n\n\n\nBasics/Introduction\n\n\nStatus Icon Legend\n \n\n\n\n\nFrequently Asked Questions\n\uf0c1\n\n\n\n\nFAQS\n\n\n\n\nDevelopment \n Contribution\n\uf0c1\n\n\n\n\nProject Issue Tracking \n Reporting", 
+            "text": "DockDogs\u00ae Scheduling \n Logistics\n\uf0c1\n\n\nWelcome to the Documentation for the DockDogs Scheduling \n Logistics Help Site. Please see \nBasics \n Introduction\n in order to access the Smartsheet. \n\n\nGetting Started\n\uf0c1\n\n\n\n\nBasics/Introduction\n\n\nStatus Icon Legend\n \n\n\n\n\nFrequently Asked Questions\n\uf0c1\n\n\n\n\nFAQS\n\n\n\n\nDevelopment \n Contribution\n\uf0c1\n\n\n\n\nProject Issue Tracking \n Reporting", 
             "title": "Home"
         }, 
         {
             "location": "/#dockdogs-scheduling-logistics", 
-            "text": "Welcome to the Documentation for the DockDogs Scheduling   Logistics Help Site.  Getting Started \uf0c1   Basics/Introduction  Status Icon Legend     Frequently Asked Questions \uf0c1   FAQS   Development   Contribution \uf0c1   Project Issue Tracking   Reporting", 
+            "text": "Welcome to the Documentation for the DockDogs Scheduling   Logistics Help Site. Please see  Basics   Introduction  in order to access the Smartsheet.   Getting Started \uf0c1   Basics/Introduction  Status Icon Legend     Frequently Asked Questions \uf0c1   FAQS   Development   Contribution \uf0c1   Project Issue Tracking   Reporting", 
             "title": "DockDogs\u00ae Scheduling &amp; Logistics"
         }, 
         {
@@ -27,7 +27,7 @@
         }, 
         {
             "location": "/getting-started/FAQs/", 
-            "text": "Why is the row showing \nRED\n text?\n\n\n\n\nThis is to identify events that are on \nHOLD\n status.  \n\n\n\n\n\n\n\n\nHow can I view the prior contents of a given cell?\n\n\n\n\nRight click\n on the cell in question and click \n\"View History\"\n\n\n\n\n\n\n\n\nWhat are the \nBROWN\n rows that are blank?\n\n\n\n\nBrian Sharenow has put these in to separate weeks.\n\n\n\n\n\n\n\n\nWhat if an event has multiple docks/pools going to it?\n\n\n\n\nUse the \nINDENT ROW\n function to add a secondary row and identify all the details here. \nWhen filling in the subsequent (2nd, 3rd, 4th, docks simply designate which sponsor (if applicable), the events team members, the truck/trailer, etc.", 
+            "text": "Q: Why is the row showing \nRED\n text?\n\n\n\n\nA: This is to identify events that are on \nHOLD\n status.  \n\n\n\n\n\n\n\n\nQ: How can I view the prior contents of a given cell?\n\n\n\n\nA: \nRight click\n on the cell in question and click \n\"View History\"\n\n\n\n\n\n\n\n\nQ: What are the \nBROWN\n rows that are blank?\n\n\n\n\nA: Brian Sharenow has put these in to separate weeks.\n\n\n\n\n\n\n\n\nQ: What if an event has multiple docks/pools going to it?\n\n\n\n\nA: Use the \nINDENT ROW\n function to add a secondary row and identify all the details here. \nWhen filling in the subsequent (2nd, 3rd, 4th, docks simply designate which sponsor (if applicable), the events team members, the truck/trailer, etc.\n\n\n\n\n\n\n\n\nQ: What email address do I use to login?\n\n\n\n\nA: Your dockdogs.com email address.", 
             "title": "FAQS"
         }, 
         {
