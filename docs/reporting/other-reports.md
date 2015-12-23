@@ -1,3 +1,5 @@
+* NEEDS UPDATING! 
+
 ### Contracts & Deposits Report
 
 This report shows all events and the status of their **_CONTRACT_** and **_DEPOSIT_** being received and processed by DockDogs.
@@ -17,8 +19,17 @@ This report shows the status of an event reconciliation being completed for spec
 	* _Event End Date_ is in the past.
 	* A status has been entered for the **_Reconciled_** column in the corresponding row.
 * For events that are not reconciled & invoiced like the _EVENT SERIES_ above simply mark this with a **_NO_** icon. This will be excluded from appearing on the _RECONCILED REPORT_.
-* [Reconciled Report Example](https://docs.google.com/spreadsheets/d/14S2ZnPWy9MlFEUC2IC7FR7n9A0eWB28UXMJJxPAwbxk/edit?usp=sharing)
+* [Reconciled Report](https://app.smartsheet.com/b/publish?EQBCT=f531a5fbc3344d779076f634f392a811)
 
 ### Additional Reports
 
 * Additional Reports are coming soon...
+
+### Possible Report Ideas
+
+* Events without insurance in the next X days
+* Events without hotels in the next X days
+
+### Interested in a report?
+
+* Please contact Brian King. We can try to create this view for you.
