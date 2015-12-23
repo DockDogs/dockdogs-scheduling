@@ -69,11 +69,6 @@
             "location": "/notifications/pre-build-notifications/", 
             "text": "Pre-Built Notifications\n\uf0c1\n\n\n\n\nSmartsheet has the capability of notifying people via email when certain things change inside of the sheet.\n\n\n\n\nCurrent Notifications Setup\n\uf0c1\n\n\n\n\nEmail Brian King once a day if \nSPONSOR\n field changes.\n\n\nEmail Brian Sharenow once a day if \nCONTRACT\n field changes.\n\n\nEmail Teresa Reeves once a day if \nRECONCILED\n field changes.\n\n\nEmail Sam Bruno/Linda Torson once a day if \nPRIZE PURSE\n field changes.", 
             "title": "Pre-Built Notifications"
-        }, 
-        {
-            "location": "/notifications/notifications-basics/", 
-            "text": "Coming soon...", 
-            "title": "Notification Basics"
         }
     ]
 }

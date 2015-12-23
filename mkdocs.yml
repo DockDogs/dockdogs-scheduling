@@ -12,7 +12,6 @@ pages:
     - Other Reports: reporting/other-reports.md 
 - Notifications:
     - Pre-Built Notifications: notifications/pre-build-notifications.md
-    - Notification Basics: notifications/notifications-basics.md
 theme: readthedocs
 
 markdown_extensions:
