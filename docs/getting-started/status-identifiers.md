@@ -55,6 +55,7 @@ The DockDogs Scheduling Smartsheet utilizes dropdown menus for many of the field
 
 ### Deposit
 * For identifying the status of an event deposit related to a particular event.
+    * N/A - For club events that don't submit deposits. 
 	* Partial Received 
 	* Full Received 
 	* Multi-Year _**If this is used please be sure to use the CONTRACT TERM cell to identify the length.**_
