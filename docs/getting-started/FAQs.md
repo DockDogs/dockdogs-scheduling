@@ -1,7 +1,7 @@
 * Q: Why is the row showing **RED** text?
 	* A: This is to identify events that are on **HOLD** status.  
 
-* Q: How can I view the prior contents of a given cell?
+* Q: How can I view the prior contents of a given cell (revision history)?
 	* A: **Right click** on the cell in question and click **"View History"**
 
 * Q: What are the **BROWN** rows that are blank?
@@ -12,3 +12,6 @@
 
 * Q: What email address do I use to login?
 	* A: Your dockdogs.com email address.
+
+* Q: What are the **RED** events in Calendar view?
+	* A: This is to identify events that are on **HOLD** status.
