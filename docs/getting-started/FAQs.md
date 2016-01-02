@@ -15,3 +15,6 @@
 
 * Q: What are the **RED** events in Calendar view?
 	* A: This is to identify events that are on **HOLD** status.
+
+* Q: What are the **GREY** rows with **WHITE** text?
+	* A: This is to identify events that have **END DATES** **IN THE PAST**.
