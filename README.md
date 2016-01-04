@@ -40,3 +40,7 @@
 ### Getting a Specific Release & Viewing All Releases
 
 * [View Releases](https://github.com/DockDogs/dockdogs-scheduling/releases)
+
+### Open Issues
+
+* [Github Issues](https://github.com/brianjking/dockdogs-scheduling/issues)
