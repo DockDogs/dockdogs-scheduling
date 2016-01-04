@@ -39,4 +39,4 @@
 
 ### Getting a Specific Release & Viewing All Releases
 
-* [View Releases](https://bitbucket.org/dockdogs/dockdogs-staff-onboarding-documentation/addon/com.releasebucket/releases)
+* [View Releases](https://github.com/DockDogs/dockdogs-scheduling/releases)
