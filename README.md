@@ -1,6 +1,6 @@
 #README
 
-* [DockDogs Scheduling Site Documentation](http://dockdogs.github.io/dockdogs-scheduling/). Generated with [MKDocs](http://mkdocs.org)
+* [DockDogs Scheduling Site Documentation](http://smartsheet.bigairdogs.org). Generated with [MKDocs](http://mkdocs.org)
 
 ### Pre-requesites 
 
@@ -14,10 +14,10 @@
 
 ### Checkout Documentation for Editing
 
-* If you've never obtained the documentation before you'll want to clone the repository. The default branch is `mkdocs`, this is good.
-    * `$ git clone git@bitbucket.org:dockdogs/dockdogs-staff-onboarding-documentation.git`
+* If you've never obtained the documentation before you'll want to clone the repository. The default branch is `master`, this is where edits should take place.
+    * `$ git clone git@github.com:DockDogs/dockdogs-scheduling.git`
 * If you've already cloned the repository navigate to where this is in your computer using Terminal or Powershell. Once in this directory you'll be able to execute the following:
-    * `$ git fetch && git checkout mkdocs`
+    * `$ git fetch && git checkout master`
 
 ### How to Edit
 
@@ -28,9 +28,9 @@
 
 * `$ mkdocs build`
 * `$ git commit -am "commit message documenting what you've changed"`
-* `$ git push origin-mkdocs`
-* Once pushed to `mkdocs` branch all files from `site` folder will be deployed via [Deploybot](http://deploybot.com), Git, and black magic.
-* Confirm updates are live & accessible via accessing [http://bigairdogs.org](http://bigairdogs.org). _This may take a few minutes to fully deploy, please be patient._
+* `$ git push`
+* Once pushed to `master` branch all files from `site` folder will be deployed via [Deploybot](http://deploybot.com), Git, and black magic.
+* Confirm updates are live & accessible via accessing [http://smartsheet.bigairdogs.org](http://bigairdogs.org). _This may take a few minutes to fully deploy, please be patient._
 
 
 #### Deployment Status 
