@@ -15,4 +15,4 @@ Only events with the **_GREEN_** or **_YELLOW_** status fields selected in the *
 
 
 ### Example Sponsorship Reports
-* [Blue Buffalo Sponsorship Report Example](https://docs.google.com/spreadsheets/d/1bNgFzr_2U_aZ91WsyanoMjtdw8eKldayPXNccCdtQms/edit#gid=951212036)
+* [Blue Buffalo Sponsorship Report](https://app.smartsheet.com/b/publish?EQBCT=a54fa535cfcd49fea08dd7ba2ebd10b9)
