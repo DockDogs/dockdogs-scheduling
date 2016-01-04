@@ -16,4 +16,4 @@ Welcome to the Documentation for the DockDogs Scheduling & Logistics Help Site. 
 
 [![Stories in Ready](https://badge.waffle.io/brianjking/DockDogs-scheduling.svg?label=ready&title=Ready)](http://waffle.io/brianjking/DockDogs-scheduling)
 
-_Release: 0.9.3_
+_Release: 0.9.4_
