@@ -1,8 +1,9 @@
-# NEEDS UPDATING! 
-
 ## Introduction
 
-Members of the Events Team will receive their schedules via email on a pre-defined scheduled basis. These can arrive as a PDF or Excel document.
+Members of the Events Team will receive their schedules via a link that they can access at their leasure. They should check this at least once per week. 
+
+!!! danger "IMPORTANT"
+    __**THERE IS A GOOGLE SHEET FOUND INSIDE OF GOOGLE DRIVE WHICH HAS EACH TEAM MEMBERS SMARTSHEET URL INSIDE OF IT. THIS CAN BE FOUND BY NAVIGATING TO THE FOLLOWING DIRECTORY: DOCKDOGS --> 2016 --> DD USA --> STAFFING --> "2016 DockDogs Smartsheet - Reports URLs for events team".**__
 
 ### Types of Reports
 
@@ -12,23 +13,38 @@ A report must be created new or duplicated from an existing report of a matching
 
 Only events with the **_GREEN_** or **_YELLOW_** status fields selected in the **_POSTED_** column will be included in these reports. This ensures that sponsors are only notified of events that have been **_POSTED_** on the [DockDogs](http://dockdogs.com) website and opened for registration.
 
-![Confirmed Status](https://bitbucket.org/dockdogs/dockdogs-scheduling/downloads/screenshot10-22-1516.32.png)
+### Schedule Accessed via Mobile
 
-### Crew Confirmed
+![DockDogs DOT Log Book](../images/mobile-full-grid.png "Mobile View - All Upcoming Events")
 
-Only events with the ~**_GREEN_** or **_BLUE_**~ will appear on reports for Events Team Reporting. 
+_Image: Mobile View, all upcoming events_
 
-### Mobile Report View - Published Report
+![DockDogs DOT Log Book](../images/individual-event.png "Mobile View - All Upcoming Events")
 
-![Screenshot_20151214-201156.png](https://bitbucket.org/repo/ppdrXq/images/719740462-Screenshot_20151214-201156.png)
+_Image: Mobile View, individual event details_
 
-![Screenshot_20151214-201210.png](https://bitbucket.org/repo/ppdrXq/images/3280369374-Screenshot_20151214-201210.png)
+![DockDogs DOT Log Book](../images/discussions.png "Mobile View - All Upcoming Events")
 
-* Event detail view 
+_Image: Mobile View, Discussions & Notes_
 
-### Browser Based view on Laptop/Desktop
+![DockDogs DOT Log Book](../images/attachments.png "Mobile View - All Upcoming Events")
 
-![screenshot-162.png](https://bitbucket.org/repo/ppdrXq/images/3325060316-screenshot-162.png)
+_Image: Mobile View, Important Attachments_
+
+
+### Schedule Accessed via Desktop/Laptop computer
+
+![DockDogs DOT Log Book](../images/calendar-smartsheet.png "Mobile View - All Upcoming Events")
+
+_Image: Calendar View on Computer of all upcoming events_
+
+![DockDogs DOT Log Book](../images/grid-smartsheet.png "Mobile View - All Upcoming Events")
+
+_Image: Grid view on Computer of all upcoming events_
+
+![DockDogs DOT Log Book](../images/discussions-smartsheet.png "Mobile View - All Upcoming Events")
+
+_Image: Discussion of a particular event on a computer_
 
 
 ### Example Report - Vince
