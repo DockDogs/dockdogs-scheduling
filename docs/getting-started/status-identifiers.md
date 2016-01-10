@@ -2,33 +2,33 @@
 
 The DockDogs Scheduling Smartsheet utilizes dropdown menus for many of the fields. These dropdowns are important as they are the basis of how reports are generated and sent. Additionally, they are there to standardize the data that is input by the various parties interfacing with the document. 
 
-**If a new dropdown status is required please contact the DockDogs Office.**
+!!! danger "WARNING - IMPORTANT"
+    __**If a new dropdown status is required please contact the DockDogs Office. It is VERY IMPORTANT that you do not TYPE IN RANDOM OR NEW CONTENT INTO DROPDOWN MENUS OR THIS WILL BREAK THINGS. YOU HAVE BEEN WARNED.**__
 
 ### Awards
 * Please use the following icons for determining the status of Awards.
-	* Need
-	* Ordered
-	* Shipped
-	* Blank - 
+	* Need - Need to order for this event.
+	* Ordered - Order has been placed.
+	* Shipped - Awards order has been shipped. Admin needs to pick-up from shipping location. 
+	* Blank - Club event or otherwise not necessary. 
 	
-
 
 ### Posted
 * Please use the following icons for identifying if the event has been posted & opened for registration. Note: This field is also used for several reports such as the [Sponsorship Reports](http://dockdogs.github.io/dockdogs-scheduling/reporting/pre-built-sponsors-report/#confirmed-versus-tentative-status) 
-	* Red - 
-	* **NEEDS UPDATED**
+	* GREEN - POSTED
+	
 
 ### Hotels
 * Please use the following icons for identifying the status of hotels for our staff being acquired/if they need to be acquired/etc. 
-	* Supplied - If hotels are supplied to us please set the status to "Supplied." Also, please be sure to identify the hotel details in the appropriate column. 
+	* Supplied - If hotels are supplied to us please set the status to "Supplied." __Also, please be sure to identify the hotel details in the appropriate column.__ 
 	* Required - Use this field for when we have to obtain hotels for the staff. 
 
 ### Insurance
 * Please use the following options for identifying the status of purchasing/obtaining insurance for a given event. 
-	*  Obtain (Club) - Use this for club events that we have yet to 
-	*  Obtain (DDWW)
-	*  Complete (Club)
-	*  Complete (DDWW)
+	*  Obtain (Club) - Use this for club events that we have yet to obtain the insurance details from.
+	*  Obtain (DDWW) - Use this for National events that we have yet to order insurance for. 
+	*  Complete (Club) - Use this for Club Events that have submitted their insurance certificate. 
+	*  Complete (DDWW) - Use this for National Events that we have received the certificate of insruance for. 
 
 ### Status
 * Please use this column for identifying if this is a date hold.
@@ -46,12 +46,8 @@ The DockDogs Scheduling Smartsheet utilizes dropdown menus for many of the field
 	* Received - Executed contract has been received by DDWW.
 
 ### Contract Term
-* For identifying the length of the contract.
-    * 1 Year
-    * 2 Year
-    * 3 Year
-    * 4 Year
-    * 5 Year 
+* For identifying the length of the contract. 
+    * Please select the **FINAL** year of the contract from the dropdown menu. 
 
 ### Deposit
 * For identifying the status of an event deposit related to a particular event.
