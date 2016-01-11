@@ -1,4 +1,4 @@
-![dockdogs_logo_400.png](https://bitbucket.org/repo/ppdrXq/images/3044493218-dockdogs_logo_400.png)
+![dockdogs_logo_400.png](http://dockdogs.com/wp-content/uploads/2013/01/dockdogs_logo_300-7019fdd1.png)
 
 # DockDogs® Scheduling & Logistics
 
