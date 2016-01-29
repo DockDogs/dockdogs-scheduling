@@ -2,18 +2,43 @@
     "docs": [
         {
             "location": "/", 
-            "text": "DockDogs\u00ae Scheduling \n Logistics\n\uf0c1\n\n\nWelcome to the Documentation for the DockDogs Scheduling \n Logistics Help Site. Please see \nBasics \n Introduction\n in order to access the Smartsheet. \n\n\nGetting Started\n\uf0c1\n\n\n\n\nBasics/Introduction\n\n\nStatus Icon Legend\n \n\n\n\n\nFrequently Asked Questions\n\uf0c1\n\n\n\n\nFAQS\n\n\n\n\nDevelopment \n Contribution\n\uf0c1\n\n\n\n\nProject Issue Tracking \n Reporting\n\n\n\n\n\n\nRelease: 0.9.6", 
+            "text": "DockDogs\u00ae Scheduling \n Logistics\n\uf0c1\n\n\nWelcome to the Documentation for the DockDogs Scheduling \n Logistics Help Site. Please see \nBasics \n Introduction\n in order to access the Smartsheet. \n\n\nGetting Started\n\uf0c1\n\n\n\n\nBasics/Introduction\n\n\nStatus Icon Legend\n \n\n\n\n\nFrequently Asked Questions\n\uf0c1\n\n\n\n\nFAQS\n\n\n\n\nDevelopment \n Contribution\n\uf0c1\n\n\n\n\nProject Issue Tracking \n Reporting\n\n\n\n\n\n\nRelease: 0.9.7", 
             "title": "Home"
         }, 
         {
             "location": "/#dockdogs-scheduling-logistics", 
-            "text": "Welcome to the Documentation for the DockDogs Scheduling   Logistics Help Site. Please see  Basics   Introduction  in order to access the Smartsheet.   Getting Started \uf0c1   Basics/Introduction  Status Icon Legend     Frequently Asked Questions \uf0c1   FAQS   Development   Contribution \uf0c1   Project Issue Tracking   Reporting    Release: 0.9.6", 
+            "text": "Welcome to the Documentation for the DockDogs Scheduling   Logistics Help Site. Please see  Basics   Introduction  in order to access the Smartsheet.", 
             "title": "DockDogs\u00ae Scheduling &amp; Logistics"
+        }, 
+        {
+            "location": "/#getting-started", 
+            "text": "Basics/Introduction  Status Icon Legend", 
+            "title": "Getting Started"
+        }, 
+        {
+            "location": "/#frequently-asked-questions", 
+            "text": "FAQS", 
+            "title": "Frequently Asked Questions"
+        }, 
+        {
+            "location": "/#development-contribution", 
+            "text": "Project Issue Tracking   Reporting    Release: 0.9.7", 
+            "title": "Development &amp; Contribution"
         }, 
         {
             "location": "/getting-started/basics-and-introduction/", 
             "text": "Access via a Computer\n\uf0c1\n\n\n\n\nChrome/Firefox/MS Edge Access\n\n\n\n\nMobile Access\n\uf0c1\n\n\n\n\niPhone \n iPad Smartsheet Apps\n\n\nAndroid OS Smartsheet Apps", 
             "title": "Basics and Introduction"
+        }, 
+        {
+            "location": "/getting-started/basics-and-introduction/#access-via-a-computer", 
+            "text": "Chrome/Firefox/MS Edge Access", 
+            "title": "Access via a Computer"
+        }, 
+        {
+            "location": "/getting-started/basics-and-introduction/#mobile-access", 
+            "text": "iPhone   iPad Smartsheet Apps  Android OS Smartsheet Apps", 
+            "title": "Mobile Access"
         }, 
         {
             "location": "/getting-started/status-identifiers/", 
@@ -22,8 +47,63 @@
         }, 
         {
             "location": "/getting-started/status-identifiers/#introduction", 
-            "text": "The DockDogs Scheduling Smartsheet utilizes dropdown menus for many of the fields. These dropdowns are important as they are the basis of how reports are generated and sent. Additionally, they are there to standardize the data that is input by the various parties interfacing with the document.    WARNING - IMPORTANT  If a new dropdown status is required please contact the DockDogs Office. It is VERY IMPORTANT that you do not TYPE IN RANDOM OR NEW CONTENT INTO DROPDOWN MENUS OR THIS WILL BREAK THINGS. YOU HAVE BEEN WARNED.   Awards \uf0c1   Please use the following icons for determining the status of Awards.  Need - Need to order for this event.  Ordered - Order has been placed.  Shipped - Awards order has been shipped. Admin needs to pick-up from shipping location.   Blank - Club event or otherwise not necessary.      Posted \uf0c1   Please use the following icons for identifying if the event has been posted   opened for registration. Note: This field is also used for several reports such as the  Sponsorship Reports    GREEN - POSTED     Hotels \uf0c1   Please use the following icons for identifying the status of hotels for our staff being acquired/if they need to be acquired/etc.   Supplied - If hotels are supplied to us please set the status to \"Supplied.\"  Also, please be sure to identify the hotel details in the appropriate column.    Required - Use this field for when we have to obtain hotels for the staff.      Insurance \uf0c1   Please use the following options for identifying the status of purchasing/obtaining insurance for a given event.   Obtain (Club) - Use this for club events that we have yet to obtain the insurance details from.  Obtain (DDWW) - Use this for National events that we have yet to order insurance for.   Complete (Club) - Use this for Club Events that have submitted their insurance certificate.   Complete (DDWW) - Use this for National Events that we have received the certificate of insruance for.      Status \uf0c1   Please use this column for identifying if this is a date hold.  Hold - This is a temporary date hold. Please be sure to fill in all details possible. For event name identify if it's a club/national event and any other details.   Confirmed - Use this to identify events that are confirmed.  All details for this row should be filled in for this particular event.       Crew Confirmed \uf0c1   Please use the following icons for identifying the status of sending an event schedule to the events team members listed under the various positions.  This pertains to  Events Team Reports .  Confirmed - The team members are confirmed.  Tentative - One or more team members for this event may still need to be confirmed. Once all team members for this event have confirmed with  Brian Sharenow  he should identify this as  \"CONFIRMED\"     Contract \uf0c1   For identifying the status of a contract related to an event.  Sent - Brian has sent a contract out and is waiting on a copy back. Once it is received by DDWW, Theresa should update this field accordingly.  Received - Executed contract has been received by DDWW.     Contract Term \uf0c1   For identifying the length of the contract.   Please select the  FINAL  year of the contract from the dropdown menu.      Deposit \uf0c1   For identifying the status of an event deposit related to a particular event.  N/A - For club events that don't submit deposits.   Partial Received   Full Received   Multi-Year  If this is used please be sure to use the CONTRACT TERM cell to identify the length.     Reconciled \uf0c1   For identifying the status of if an event reconciliation has been completed or not yet.  This pertains to the  Reconciled Report .  Complete - The event is fully reconciled and approved.  In Progress - This event is currently in the process of being reconciled.  To Review - Theresa Bufalino has finished reconciling and has set this event to be reviewed by Teresa Reeves.  N/A - Not applicable, for whatever reason.     Prize Purse \uf0c1   For identifying if Credits have been issued.  N/A  Issued - Once Linda has issued credits she will mark this identifier. Sam will receive an email of this notification.  QB - Once credits have been reconciled into Quickbooks Sam will update this field to identify  QB  and this is subsequently used on the Reconciled Report.", 
+            "text": "The DockDogs Scheduling Smartsheet utilizes dropdown menus for many of the fields. These dropdowns are important as they are the basis of how reports are generated and sent. Additionally, they are there to standardize the data that is input by the various parties interfacing with the document.    WARNING - IMPORTANT  If a new dropdown status is required please contact the DockDogs Office. It is VERY IMPORTANT that you do not TYPE IN RANDOM OR NEW CONTENT INTO DROPDOWN MENUS OR THIS WILL BREAK THINGS. YOU HAVE BEEN WARNED.", 
             "title": "Introduction"
+        }, 
+        {
+            "location": "/getting-started/status-identifiers/#awards", 
+            "text": "Please use the following icons for determining the status of Awards.  Need - Need to order for this event.  Ordered - Order has been placed.  Shipped - Awards order has been shipped. Admin needs to pick-up from shipping location.   Blank - Club event or otherwise not necessary.", 
+            "title": "Awards"
+        }, 
+        {
+            "location": "/getting-started/status-identifiers/#posted", 
+            "text": "Please use the following icons for identifying if the event has been posted   opened for registration. Note: This field is also used for several reports such as the  Sponsorship Reports    GREEN - POSTED", 
+            "title": "Posted"
+        }, 
+        {
+            "location": "/getting-started/status-identifiers/#hotels", 
+            "text": "Please use the following icons for identifying the status of hotels for our staff being acquired/if they need to be acquired/etc.   Supplied - If hotels are supplied to us please set the status to \"Supplied.\"  Also, please be sure to identify the hotel details in the appropriate column.    Required - Use this field for when we have to obtain hotels for the staff.", 
+            "title": "Hotels"
+        }, 
+        {
+            "location": "/getting-started/status-identifiers/#insurance", 
+            "text": "Please use the following options for identifying the status of purchasing/obtaining insurance for a given event.   Obtain (Club) - Use this for club events that we have yet to obtain the insurance details from.  Obtain (DDWW) - Use this for National events that we have yet to order insurance for.   Complete (Club) - Use this for Club Events that have submitted their insurance certificate.   Complete (DDWW) - Use this for National Events that we have received the certificate of insruance for.", 
+            "title": "Insurance"
+        }, 
+        {
+            "location": "/getting-started/status-identifiers/#status", 
+            "text": "Please use this column for identifying if this is a date hold.  Hold - This is a temporary date hold. Please be sure to fill in all details possible. For event name identify if it's a club/national event and any other details.   Confirmed - Use this to identify events that are confirmed.  All details for this row should be filled in for this particular event.", 
+            "title": "Status"
+        }, 
+        {
+            "location": "/getting-started/status-identifiers/#crew-confirmed", 
+            "text": "Please use the following icons for identifying the status of sending an event schedule to the events team members listed under the various positions.  This pertains to  Events Team Reports .  Confirmed - The team members are confirmed.  Tentative - One or more team members for this event may still need to be confirmed. Once all team members for this event have confirmed with  Brian Sharenow  he should identify this as  \"CONFIRMED\"", 
+            "title": "Crew Confirmed"
+        }, 
+        {
+            "location": "/getting-started/status-identifiers/#contract", 
+            "text": "For identifying the status of a contract related to an event.  Sent - Brian has sent a contract out and is waiting on a copy back. Once it is received by DDWW, Theresa should update this field accordingly.  Received - Executed contract has been received by DDWW.", 
+            "title": "Contract"
+        }, 
+        {
+            "location": "/getting-started/status-identifiers/#contract-term", 
+            "text": "For identifying the length of the contract.   Please select the  FINAL  year of the contract from the dropdown menu.", 
+            "title": "Contract Term"
+        }, 
+        {
+            "location": "/getting-started/status-identifiers/#deposit", 
+            "text": "For identifying the status of an event deposit related to a particular event.  N/A - For club events that don't submit deposits.   Partial Received   Full Received   Multi-Year  If this is used please be sure to use the CONTRACT TERM cell to identify the length.", 
+            "title": "Deposit"
+        }, 
+        {
+            "location": "/getting-started/status-identifiers/#reconciled", 
+            "text": "For identifying the status of if an event reconciliation has been completed or not yet.  This pertains to the  Reconciled Report .  Complete - The event is fully reconciled and approved.  In Progress - This event is currently in the process of being reconciled.  To Review - Theresa Bufalino has finished reconciling and has set this event to be reviewed by Teresa Reeves.  N/A - Not applicable, for whatever reason.", 
+            "title": "Reconciled"
+        }, 
+        {
+            "location": "/getting-started/status-identifiers/#prize-purse", 
+            "text": "For identifying if Credits have been issued.  N/A  Issued - Once Linda has issued credits she will mark this identifier. Sam will receive an email of this notification.  QB - Once credits have been reconciled into Quickbooks Sam will update this field to identify  QB  and this is subsequently used on the Reconciled Report.", 
+            "title": "Prize Purse"
         }, 
         {
             "location": "/getting-started/FAQs/", 
@@ -36,24 +116,69 @@
             "title": "Reporting Basics"
         }, 
         {
+            "location": "/reporting/reporting-basics/#reporting-tips", 
+            "text": "Reporting Tips from Smartsheet  Sending   Sharing Reports  Assigning People to a Task  Managing Contacts   Coming soon...", 
+            "title": "Reporting Tips"
+        }, 
+        {
             "location": "/reporting/pre-built-sponsors-report/", 
             "text": "Introduction\n\uf0c1\n\n\nThere are 3 pre-built sponsors reports available already configured inside of Smartsheet. These have pre-defined schedules assigned to them which will send an email to each sponsor on a weekly basis. An example report can be found \nbelow\n. \n\n\nSelecting A Sponsor\n\uf0c1\n\n\nIn order to have an event show in the \nSPONSORSHIP REPORTS\n you need to designate which sponsor will have their dock at the event. This can be done by using the \nSPONSOR\n column inside of Smartsheet. \n\n\nConfirmed Versus Tentative Status\n\uf0c1\n\n\nOnly events with the \nGREEN\n or \nYELLOW\n status fields selected in the \nPOSTED\n column will be included in these reports. This ensures that sponsors are only notified of events that have been \nPOSTED\n on the \nDockDogs\n website and opened for registration.\n\n\n\n\nExample Sponsorship Reports\n\uf0c1\n\n\n\n\nBlue Buffalo Sponsorship Report", 
             "title": "Pre-Built Sponsors Report"
         }, 
         {
             "location": "/reporting/pre-built-sponsors-report/#introduction", 
-            "text": "There are 3 pre-built sponsors reports available already configured inside of Smartsheet. These have pre-defined schedules assigned to them which will send an email to each sponsor on a weekly basis. An example report can be found  below .   Selecting A Sponsor \uf0c1  In order to have an event show in the  SPONSORSHIP REPORTS  you need to designate which sponsor will have their dock at the event. This can be done by using the  SPONSOR  column inside of Smartsheet.   Confirmed Versus Tentative Status \uf0c1  Only events with the  GREEN  or  YELLOW  status fields selected in the  POSTED  column will be included in these reports. This ensures that sponsors are only notified of events that have been  POSTED  on the  DockDogs  website and opened for registration.   Example Sponsorship Reports \uf0c1   Blue Buffalo Sponsorship Report", 
+            "text": "There are 3 pre-built sponsors reports available already configured inside of Smartsheet. These have pre-defined schedules assigned to them which will send an email to each sponsor on a weekly basis. An example report can be found  below .", 
             "title": "Introduction"
         }, 
         {
+            "location": "/reporting/pre-built-sponsors-report/#selecting-a-sponsor", 
+            "text": "In order to have an event show in the  SPONSORSHIP REPORTS  you need to designate which sponsor will have their dock at the event. This can be done by using the  SPONSOR  column inside of Smartsheet.", 
+            "title": "Selecting A Sponsor"
+        }, 
+        {
+            "location": "/reporting/pre-built-sponsors-report/#confirmed-versus-tentative-status", 
+            "text": "Only events with the  GREEN  or  YELLOW  status fields selected in the  POSTED  column will be included in these reports. This ensures that sponsors are only notified of events that have been  POSTED  on the  DockDogs  website and opened for registration.", 
+            "title": "Confirmed Versus Tentative Status"
+        }, 
+        {
+            "location": "/reporting/pre-built-sponsors-report/#example-sponsorship-reports", 
+            "text": "Blue Buffalo Sponsorship Report", 
+            "title": "Example Sponsorship Reports"
+        }, 
+        {
             "location": "/reporting/events-team-reports/", 
-            "text": "Introduction\n\uf0c1\n\n\nMembers of the Events Team will receive their schedules via a link that they can access at their leasure. They should check this at least once per week. \n\n\n\n\nIMPORTANT\n\n\nTHERE IS A GOOGLE SHEET FOUND INSIDE OF GOOGLE DRIVE WHICH HAS EACH TEAM MEMBERS SMARTSHEET URL INSIDE OF IT. THIS CAN BE FOUND BY NAVIGATING TO THE FOLLOWING DIRECTORY: DOCKDOGS --\n 2016 --\n DD USA --\n STAFFING --\n \"2016 DockDogs Smartsheet - Reports URLs for events team\".\n\n\n\n\nTypes of Reports\n\uf0c1\n\n\nA report must be created new or duplicated from an existing report of a matching type for each new events team member. \nIf a person is BOTH a DRIVER _and/or\n an EVENT MANAGER then this must be specified as such when creating the report._\n\n\nConfirmed Versus Tentative Status\n\uf0c1\n\n\nOnly events with the \nGREEN\n or \nYELLOW\n status fields selected in the \nPOSTED\n column will be included in these reports. This ensures that sponsors are only notified of events that have been \nPOSTED\n on the \nDockDogs\n website and opened for registration.\n\n\nSchedule Accessed via Mobile\n\uf0c1\n\n\n\n\nImage: Mobile View, all upcoming events\n\n\n\n\nImage: Mobile View, individual event details\n\n\n\n\nImage: Mobile View, Discussions \n Notes\n\n\n\n\nImage: Mobile View, Important Attachments\n\n\nSchedule Accessed via Desktop/Laptop computer\n\uf0c1\n\n\n\n\nImage: Calendar View on Computer of all upcoming events\n\n\n\n\nImage: Grid view on Computer of all upcoming events\n\n\n\n\nImage: Discussion of a particular event on a computer\n\n\nExample Report - Vince\n\uf0c1\n\n\n\n\nOpen Report Example", 
+            "text": "Introduction\n\uf0c1\n\n\nMembers of the Events Team will receive their schedules via a link that they can access at their leasure. They should check this at least once per week. \n\n\n\n\nIMPORTANT\n\n\nTHERE IS A GOOGLE SHEET FOUND INSIDE OF GOOGLE DRIVE WHICH HAS EACH TEAM MEMBERS SMARTSHEET URL INSIDE OF IT. THIS CAN BE FOUND BY NAVIGATING TO THE FOLLOWING DIRECTORY: DOCKDOGS --\n 2016 --\n DD USA --\n STAFFING --\n \"2016 DockDogs Smartsheet - Reports URLs for events team\".\n\n\n\n\nTypes of Reports\n\uf0c1\n\n\nA report must be created new or duplicated from an existing report of a matching type for each new events team member. \nIf a person is BOTH a DRIVER \nand/or\n an EVENT MANAGER then this must be specified as such when creating the report.\n\n\n\n\nIMPORTANT - THE MOST IMPORTANT THING EVER!\n\n\nIF A TEAM MEMBER IS SCHEDULED FOR A POSITION THAT IS NOT LISTED IN THE SPREADSHEET REFERENCED ABOVE THIS WILL NOT APPEAR ON THEIR SCHEDULE WITHOUT FIRST CONTACTING BRIAN KING TO MODIFY THE REPORT.\n\n\n\n\nConfirmed Versus Tentative Status\n\uf0c1\n\n\nOnly events with the \nGREEN\n or \nYELLOW\n status fields selected in the \nPOSTED\n column will be included in these reports. This ensures that sponsors are only notified of events that have been \nPOSTED\n on the \nDockDogs\n website and opened for registration.\n\n\nSchedule Accessed via Mobile\n\uf0c1\n\n\n\n\nImage: Mobile View, all upcoming events\n\n\n\n\nImage: Mobile View, individual event details\n\n\n\n\nImage: Mobile View, Discussions \n Notes\n\n\n\n\nImage: Mobile View, Important Attachments\n\n\nSchedule Accessed via Desktop/Laptop computer\n\uf0c1\n\n\n\n\nImage: Calendar View on Computer of all upcoming events\n\n\n\n\nImage: Grid view on Computer of all upcoming events\n\n\n\n\nImage: Discussion of a particular event on a computer\n\n\nExample Report - Vince\n\uf0c1\n\n\n\n\nOpen Report Example", 
             "title": "Events Team Reports"
         }, 
         {
             "location": "/reporting/events-team-reports/#introduction", 
-            "text": "Members of the Events Team will receive their schedules via a link that they can access at their leasure. They should check this at least once per week.    IMPORTANT  THERE IS A GOOGLE SHEET FOUND INSIDE OF GOOGLE DRIVE WHICH HAS EACH TEAM MEMBERS SMARTSHEET URL INSIDE OF IT. THIS CAN BE FOUND BY NAVIGATING TO THE FOLLOWING DIRECTORY: DOCKDOGS --  2016 --  DD USA --  STAFFING --  \"2016 DockDogs Smartsheet - Reports URLs for events team\".   Types of Reports \uf0c1  A report must be created new or duplicated from an existing report of a matching type for each new events team member.  If a person is BOTH a DRIVER _and/or  an EVENT MANAGER then this must be specified as such when creating the report._  Confirmed Versus Tentative Status \uf0c1  Only events with the  GREEN  or  YELLOW  status fields selected in the  POSTED  column will be included in these reports. This ensures that sponsors are only notified of events that have been  POSTED  on the  DockDogs  website and opened for registration.  Schedule Accessed via Mobile \uf0c1   Image: Mobile View, all upcoming events   Image: Mobile View, individual event details   Image: Mobile View, Discussions   Notes   Image: Mobile View, Important Attachments  Schedule Accessed via Desktop/Laptop computer \uf0c1   Image: Calendar View on Computer of all upcoming events   Image: Grid view on Computer of all upcoming events   Image: Discussion of a particular event on a computer  Example Report - Vince \uf0c1   Open Report Example", 
+            "text": "Members of the Events Team will receive their schedules via a link that they can access at their leasure. They should check this at least once per week.    IMPORTANT  THERE IS A GOOGLE SHEET FOUND INSIDE OF GOOGLE DRIVE WHICH HAS EACH TEAM MEMBERS SMARTSHEET URL INSIDE OF IT. THIS CAN BE FOUND BY NAVIGATING TO THE FOLLOWING DIRECTORY: DOCKDOGS --  2016 --  DD USA --  STAFFING --  \"2016 DockDogs Smartsheet - Reports URLs for events team\".", 
             "title": "Introduction"
+        }, 
+        {
+            "location": "/reporting/events-team-reports/#types-of-reports", 
+            "text": "A report must be created new or duplicated from an existing report of a matching type for each new events team member.  If a person is BOTH a DRIVER  and/or  an EVENT MANAGER then this must be specified as such when creating the report.   IMPORTANT - THE MOST IMPORTANT THING EVER!  IF A TEAM MEMBER IS SCHEDULED FOR A POSITION THAT IS NOT LISTED IN THE SPREADSHEET REFERENCED ABOVE THIS WILL NOT APPEAR ON THEIR SCHEDULE WITHOUT FIRST CONTACTING BRIAN KING TO MODIFY THE REPORT.", 
+            "title": "Types of Reports"
+        }, 
+        {
+            "location": "/reporting/events-team-reports/#confirmed-versus-tentative-status", 
+            "text": "Only events with the  GREEN  or  YELLOW  status fields selected in the  POSTED  column will be included in these reports. This ensures that sponsors are only notified of events that have been  POSTED  on the  DockDogs  website and opened for registration.", 
+            "title": "Confirmed Versus Tentative Status"
+        }, 
+        {
+            "location": "/reporting/events-team-reports/#schedule-accessed-via-mobile", 
+            "text": "Image: Mobile View, all upcoming events   Image: Mobile View, individual event details   Image: Mobile View, Discussions   Notes   Image: Mobile View, Important Attachments", 
+            "title": "Schedule Accessed via Mobile"
+        }, 
+        {
+            "location": "/reporting/events-team-reports/#schedule-accessed-via-desktoplaptop-computer", 
+            "text": "Image: Calendar View on Computer of all upcoming events   Image: Grid view on Computer of all upcoming events   Image: Discussion of a particular event on a computer", 
+            "title": "Schedule Accessed via Desktop/Laptop computer"
+        }, 
+        {
+            "location": "/reporting/events-team-reports/#example-report-vince", 
+            "text": "Open Report Example", 
+            "title": "Example Report - Vince"
         }, 
         {
             "location": "/reporting/other-reports/", 
@@ -61,9 +186,39 @@
             "title": "Other Reports"
         }, 
         {
+            "location": "/reporting/other-reports/#contracts-deposits-report", 
+            "text": "This report shows all events and the status of their  CONTRACT  and  DEPOSIT  being received and processed by DockDogs.    Contracts   Deposits Report Example", 
+            "title": "Contracts &amp; Deposits Report"
+        }, 
+        {
+            "location": "/reporting/other-reports/#reconciled-report", 
+            "text": "This report shows the status of an event reconciliation being completed for specific events. This is a quick way for Theresa, Teresa,   Grant to know if an event has been reconciled, is waiting to be reviewed, or is not yet ready for a review.    Reconcilied Report Criteria  Event Series  is: Affiliated Club, Facility Series, Fun Jump, Club Event @ Facility  Event End Date  is in the past.  A status has been entered for the  Reconciled  column in the corresponding row.    For events that are not reconciled   invoiced like the  EVENT SERIES  above simply mark this with a  NO  icon. This will be excluded from appearing on the  RECONCILED REPORT .  Reconciled Report", 
+            "title": "Reconciled Report"
+        }, 
+        {
+            "location": "/reporting/other-reports/#additional-reports", 
+            "text": "Additional Reports are coming soon...", 
+            "title": "Additional Reports"
+        }, 
+        {
+            "location": "/reporting/other-reports/#possible-report-ideas", 
+            "text": "Events without insurance in the next X days  Events without hotels in the next X days", 
+            "title": "Possible Report Ideas"
+        }, 
+        {
+            "location": "/reporting/other-reports/#interested-in-a-report", 
+            "text": "Please contact Brian King. We can try to create this view for you.", 
+            "title": "Interested in a report?"
+        }, 
+        {
             "location": "/notifications/pre-build-notifications/", 
             "text": "Smartsheet has the capability of notifying people via email when certain things change inside of the sheet.\n\n\nBelow is a list of the curent notifications setup as of 23 December 2015 @ 15:21pm CST.\n\n\nCurrent Notifications Setup\n\uf0c1\n\n\n\n\nEmail Brian King once a day if \nSPONSOR\n field changes.\n\n\nEmail Brian Sharenow once a day if \nCONTRACT\n field changes.\n\n\nEmail Teresa Reeves once a day if \nRECONCILED\n field changes.\n\n\nEmail Sam Bruno/Linda Torson once a day if \nPRIZE PURSE\n field changes.", 
             "title": "Pre-Built Notifications"
+        }, 
+        {
+            "location": "/notifications/pre-build-notifications/#current-notifications-setup", 
+            "text": "Email Brian King once a day if  SPONSOR  field changes.  Email Brian Sharenow once a day if  CONTRACT  field changes.  Email Teresa Reeves once a day if  RECONCILED  field changes.  Email Sam Bruno/Linda Torson once a day if  PRIZE PURSE  field changes.", 
+            "title": "Current Notifications Setup"
         }
     ]
 }
