@@ -7,7 +7,11 @@ Members of the Events Team will receive their schedules via a link that they can
 
 ### Types of Reports
 
-A report must be created new or duplicated from an existing report of a matching type for each new events team member. **_If a person is BOTH a DRIVER _and/or_ an EVENT MANAGER then this must be specified as such when creating the report._**
+A report must be created new or duplicated from an existing report of a matching type for each new events team member. _**If a person is BOTH a DRIVER _and/or_ an EVENT MANAGER then this must be specified as such when creating the report.**_
+
+
+!!! tip "IMPORTANT - THE MOST IMPORTANT THING EVER!"
+    __**IF A TEAM MEMBER IS SCHEDULED FOR A POSITION THAT IS NOT LISTED IN THE SPREADSHEET REFERENCED ABOVE THIS WILL NOT APPEAR ON THEIR SCHEDULE WITHOUT FIRST CONTACTING BRIAN KING TO MODIFY THE REPORT.**__
 
 ### Confirmed Versus Tentative Status
 
