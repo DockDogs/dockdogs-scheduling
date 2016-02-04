@@ -1,5 +1,8 @@
 #README
 
+[![Build Status](https://travis-ci.org/DockDogs/dockdogs-scheduling.svg?branch=master)](https://travis-ci.org/DockDogs/dockdogs-scheduling)
+
+
 * [DockDogs Scheduling Site Documentation](http://smartsheet.bigairdogs.org). Generated with [MKDocs](http://mkdocs.org)
 
 ### Pre-requesites 
