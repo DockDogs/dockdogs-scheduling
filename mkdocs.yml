@@ -9,11 +9,11 @@ pages:
     - Reporting Basics: reporting/reporting-basics.md
     - Pre-Built Sponsors Report: reporting/pre-built-sponsors-report.md 
     - Events Team Reports: reporting/events-team-reports.md
-    - Other Reports: reporting/other-reports.md 
+    - Other Reports: reporting/other-reports.md
+    - Events Team Events Reports Tracker: reporting/events-team-post-event-reports.md 
 - Notifications:
     - Pre-Built Notifications: notifications/pre-build-notifications.md
 theme: readthedocs
-
 markdown_extensions:
     - toc:
         permalink: 
