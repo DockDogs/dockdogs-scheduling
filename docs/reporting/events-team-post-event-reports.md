@@ -17,3 +17,8 @@ In order to track the various DockDogs Events Team Reports that are submitted th
 
 !!! tip "IMPORTANT - YOU HAVE BEEN WARNED!"
     __**THIS REPORT IS A TWO-WAY LINK TO THE MASTER SCHEDULE. IF YOU MAKE A CHANGE TO ANY CONTENT OF A CELL OR DELETE A ROW/COLUMN THIS WILL ALSO DELETE ON THE MASTER DOCKDOGS SCHEDULE. YOU HAVE BEEN WARNED.**__
+
+
+#### Locating The Report in Smartsheet
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4bSOvNRmiD0?rel=0" frameborder="0" allowfullscreen></iframe>
