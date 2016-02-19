@@ -2,8 +2,8 @@ language: python
 python:
 - '2.7'
 install: pip install -q -r requirements.txt
-script: mkdocs build
-after_success: curl -X POST https://ddschedule.deploybot.com/webhook/14484b79990123e8a02749511a58
+script: mkdocs build --clean
+# after_success: curl -X POST https://ddschedule.deploybot.com/webhook/14484b79990123e8a02749511a58
 notifications:
   slack:
     secure: jJG57bKoLiTr2eH55HlctDTyswad4dkpKOJ4KTp99IiOgeCIXUGm6DCPDuahEy58g64UZdpQsXAOHKeQC4qOT/2OyNWgqU9a592JpB6QbLaQN6dxfo1Xj/MafcIIRGMDhNQVi2uSQk9PS34uwLYPn9rLg8UVuDONCGq0pG6sX860CsaBL6jonJjTUUYHRx9SdzYYwCuJLN3sC8jr6Kwine1UtXQmrPXVEUKoYhS0LNFpxTzD0rQh+r2EuR1YGIXz5WEQRiskXSWC7CY/IduHqgXa0QNaUPebkC+r8AQiFUPNGw3czL7Q17SNDWtTC/fBDV/n41qFcot7UU6pCVrx5HbOrpkhgLJvwKTgJAAMtToG0WJSN2nFsg5Kco2rJmFWftSUZJUjKoVrdJ4OMk7poJGVkyV4aBJXqZVSbJ+lYaHH3SAfwGfLWGDc8Mgk+PktaXxT/Hu4B1+f53BiKg9bPNKjmsMf6eq7gYilrwrXQlbFLfsMknebZzG0RLxsiQHBoPdL1XK6GRTZQvyNDTngbZlFWbftoQmvTafSd9FXw4j8zVItMbMH1/E73fYsRXhzOmYN/UGvUJMCmJ32H/gBG7OXM1xMqc6sLc0j9le/y0PwMrP12z8afTDYZzp0ulEkYWtKveCl8yVeY+ejLc9/H7qRLrTEGQtAKmDPIzcpKE0=
