@@ -4,7 +4,7 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2016-01-29</lastmod>
+     <lastmod>2016-02-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,19 +13,19 @@
         
     <url>
      <loc>None/getting-started/basics-and-introduction/</loc>
-     <lastmod>2016-01-29</lastmod>
+     <lastmod>2016-02-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/getting-started/status-identifiers/</loc>
-     <lastmod>2016-01-29</lastmod>
+     <lastmod>2016-02-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/getting-started/FAQs/</loc>
-     <lastmod>2016-01-29</lastmod>
+     <lastmod>2016-02-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -35,25 +35,31 @@
         
     <url>
      <loc>None/reporting/reporting-basics/</loc>
-     <lastmod>2016-01-29</lastmod>
+     <lastmod>2016-02-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/reporting/pre-built-sponsors-report/</loc>
-     <lastmod>2016-01-29</lastmod>
+     <lastmod>2016-02-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/reporting/events-team-reports/</loc>
-     <lastmod>2016-01-29</lastmod>
+     <lastmod>2016-02-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/reporting/other-reports/</loc>
-     <lastmod>2016-01-29</lastmod>
+     <lastmod>2016-02-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/reporting/events-team-post-event-reports/</loc>
+     <lastmod>2016-02-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -63,7 +69,7 @@
         
     <url>
      <loc>None/notifications/pre-build-notifications/</loc>
-     <lastmod>2016-01-29</lastmod>
+     <lastmod>2016-02-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
