@@ -217,7 +217,7 @@
         }, 
         {
             "location": "/reporting/events-team-post-event-reports/", 
-            "text": "Events Team Post Event Reports Tracker\n\uf0c1\n\n\nIn order to track the various DockDogs Events Team Reports that are submitted there is a report in Smartsheet with the name of \nEvents Team Post Event Reports Tracker\n. Please read below for important documentation regarding this tracker.\n\n\n\n\nWANT A TIP? READ THE TEXT BELOW FOR A GOOD TIP.\n\n\nANY COLUMN WITH ET - POSITION NAME (EXAMPLE: ET - DRIVER) IS THE COLUMN FOR THE EVENTS TEAM MEMBER PEER PERFORMANCE REPORT.\n\n\n\n\nKey Notes For Using The Events Team Post Event Report Tracker\n\uf0c1\n\n\n\n\nThis report is a two-way link to the master schedule. \nDo not change the content of any cell or delete a row or column unless you also want this to be deleted from the primary sheet.\n \n\n\nAny column named \nET - Position Name\n (example: \nET - Driver\n) is the column for the Driver's Events Team Peer Performance Report.\n\n\nThe report will automatically update based on the \nEvent End Date\n to list events as they are complete.\n\n\n\n\nExample Report Image\n\uf0c1\n\n\n\n\n\n\nIMPORTANT - YOU HAVE BEEN WARNED!\n\n\nTHIS REPORT IS A TWO-WAY LINK TO THE MASTER SCHEDULE. IF YOU MAKE A CHANGE TO ANY CONTENT OF A CELL OR DELETE A ROW/COLUMN THIS WILL ALSO DELETE ON THE MASTER DOCKDOGS SCHEDULE. YOU HAVE BEEN WARNED.", 
+            "text": "Events Team Post Event Reports Tracker\n\uf0c1\n\n\nIn order to track the various DockDogs Events Team Reports that are submitted there is a report in Smartsheet with the name of \nEvents Team Post Event Reports Tracker\n. Please read below for important documentation regarding this tracker.\n\n\n\n\nWANT A TIP? READ THE TEXT BELOW FOR A GOOD TIP.\n\n\nANY COLUMN WITH ET - POSITION NAME (EXAMPLE: ET - DRIVER) IS THE COLUMN FOR THE EVENTS TEAM MEMBER PEER PERFORMANCE REPORT.\n\n\n\n\nKey Notes For Using The Events Team Post Event Report Tracker\n\uf0c1\n\n\n\n\nThis report is a two-way link to the master schedule. \nDo not change the content of any cell or delete a row or column unless you also want this to be deleted from the primary sheet.\n \n\n\nAny column named \nET - Position Name\n (example: \nET - Driver\n) is the column for the Driver's Events Team Peer Performance Report.\n\n\nThe report will automatically update based on the \nEvent End Date\n to list events as they are complete.\n\n\n\n\nExample Report Image\n\uf0c1\n\n\n\n\n\n\nIMPORTANT - YOU HAVE BEEN WARNED!\n\n\nTHIS REPORT IS A TWO-WAY LINK TO THE MASTER SCHEDULE. IF YOU MAKE A CHANGE TO ANY CONTENT OF A CELL OR DELETE A ROW/COLUMN THIS WILL ALSO DELETE ON THE MASTER DOCKDOGS SCHEDULE. YOU HAVE BEEN WARNED.\n\n\n\n\nLocating The Report in Smartsheet\n\uf0c1", 
             "title": "Events Team Events Reports Tracker"
         }, 
         {
@@ -234,6 +234,11 @@
             "location": "/reporting/events-team-post-event-reports/#example-report-image", 
             "text": "IMPORTANT - YOU HAVE BEEN WARNED!  THIS REPORT IS A TWO-WAY LINK TO THE MASTER SCHEDULE. IF YOU MAKE A CHANGE TO ANY CONTENT OF A CELL OR DELETE A ROW/COLUMN THIS WILL ALSO DELETE ON THE MASTER DOCKDOGS SCHEDULE. YOU HAVE BEEN WARNED.", 
             "title": "Example Report Image"
+        }, 
+        {
+            "location": "/reporting/events-team-post-event-reports/#locating-the-report-in-smartsheet", 
+            "text": "", 
+            "title": "Locating The Report in Smartsheet"
         }, 
         {
             "location": "/notifications/pre-build-notifications/", 
