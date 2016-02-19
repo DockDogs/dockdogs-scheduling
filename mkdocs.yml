@@ -1,4 +1,7 @@
-site_name: DockDogs Scheduling
+site_name: DockDogs Scheduling Documentation
+copyright: 2016 &copy; <a href="http://dockdogs.com">DockDogs Worldwide</a> unless otherwise noted. Made with <i class="fa fa-code"></i> written by <i class="fa fa-laptop"></i>'s in Chicago for your reading pleasures.
+site_description: DockDogs Worldwide Smartsheet Documentation
+site_author: Brian King 
 pages:
 - Home: index.md
 - Get Started:
