@@ -2,7 +2,7 @@
 
 In order to track the various DockDogs Events Team Reports that are submitted there is a report in Smartsheet with the name of **Events Team Post Event Reports Tracker**. Please read below for important documentation regarding this tracker.
 
-!!! tip "IMPORTANT - THE MOST IMPORTANT THING EVER!"
+!!! tip "WANT A TIP? READ THE TEXT BELOW FOR A GOOD TIP."
     __**ANY COLUMN WITH ET - POSITION NAME (EXAMPLE: ET - DRIVER) IS THE COLUMN FOR THE EVENTS TEAM MEMBER PEER PERFORMANCE REPORT.**__
 
 ### Key Notes For Using The Events Team Post Event Report Tracker
