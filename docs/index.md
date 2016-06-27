@@ -11,11 +11,7 @@ Welcome to the Documentation for the DockDogs Scheduling & Logistics Help Site. 
 ### Frequently Asked Questions
 * [FAQS](getting-started/FAQs)
 
-#### Development & Contribution
-* [Project Issue Tracking & Reporting](https://github.com/brianjking/DockDogs-scheduling/issues?q=is%3Aopen+is%3Aissue)
-
-
 #### Release & Last Updated 
-* _Release: 0.9.9_
-* _Last Updated: 19 February 2016_
+* _Release: 1.0_
+* _Last Updated: 27 June 2016_
 
