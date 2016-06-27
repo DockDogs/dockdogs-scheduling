@@ -10,6 +10,7 @@ In order to track the various DockDogs Events Team Reports that are submitted th
 * This report is a two-way link to the master schedule. **Do not change the content of any cell or delete a row or column unless you also want this to be deleted from the primary sheet.** 
 * Any column named _ET - Position Name_ (example: _ET - Driver_) is the column for the Driver's Events Team Peer Performance Report.
 * The report will automatically update based on the _Event End Date_ to list events as they are complete.
+* **If an event ends on Sunday the event will not appear on the reports tracker Smartsheet until after midnight (ie: on Monday in this example).**
 
 
 #### Example Report Image
