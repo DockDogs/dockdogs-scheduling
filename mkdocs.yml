@@ -1,19 +1,20 @@
 site_name: DockDogs Scheduling Documentation
 copyright: 2016 &copy; <a href="http://dockdogs.com">DockDogs Worldwide</a> unless otherwise noted. Made with <i class="fa fa-code"></i> written by <i class="fa fa-laptop"></i>'s in Chicago for your reading pleasures.
 site_description: DockDogs Worldwide Smartsheet Documentation
-site_author: Brian King 
+site_author: Brian King
 pages:
 - Home: index.md
 - Get Started:
-    - Basics and Introduction: getting-started/basics-and-introduction.md 
+    - Basics and Introduction: getting-started/basics-and-introduction.md
     - Status Identifiers: getting-started/status-identifiers.md
     - FAQS: getting-started/FAQs.md
 - Reporting:
     - Reporting Basics: reporting/reporting-basics.md
-    - Pre-Built Sponsors Report: reporting/pre-built-sponsors-report.md 
+    - Scheduling Team Members Procedure: reporting/new-process.md
+    - Pre-Built Sponsors Report: reporting/pre-built-sponsors-report.md
     - Events Team Reports: reporting/events-team-reports.md
     - Other Reports: reporting/other-reports.md
-    - Events Team Events Reports Tracker: reporting/events-team-post-event-reports.md 
+    - Events Team Events Reports Tracker: reporting/events-team-post-event-reports.md
 - Notifications:
     - Pre-Built Notifications: notifications/pre-build-notifications.md
 theme: readthedocs
