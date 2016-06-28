@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "DockDogs\u00ae Scheduling \n Logistics\n\uf0c1\n\n\nWelcome to the Documentation for the DockDogs Scheduling \n Logistics Help Site. Please see \nBasics \n Introduction\n in order to access the Smartsheet. \n\n\nGetting Started\n\uf0c1\n\n\n\n\nBasics/Introduction\n\n\nStatus Icon Legend\n \n\n\n\n\nFrequently Asked Questions\n\uf0c1\n\n\n\n\nFAQS\n\n\n\n\nRelease \n Last Updated\n\uf0c1\n\n\n\n\nRelease: 1.0\n\n\nLast Updated: 27 June 2016", 
+            "text": "DockDogs\u00ae Scheduling \n Logistics\n\uf0c1\n\n\nWelcome to the Documentation for the DockDogs Scheduling \n Logistics Help Site. Please see \nBasics \n Introduction\n in order to access the Smartsheet.\n\n\nGetting Started\n\uf0c1\n\n\n\n\nBasics/Introduction\n\n\nStatus Icon Legend\n\n\n\n\nFrequently Asked Questions\n\uf0c1\n\n\n\n\nFAQS\n\n\n\n\nRelease \n Last Updated\n\uf0c1\n\n\n\n\nRelease: 1.0.2\n\n\nLast Updated: 27 June 2016", 
             "title": "Home"
         }, 
         {
@@ -22,7 +22,7 @@
         }, 
         {
             "location": "/#release-last-updated", 
-            "text": "Release: 1.0  Last Updated: 27 June 2016", 
+            "text": "Release: 1.0.2  Last Updated: 27 June 2016", 
             "title": "Release &amp; Last Updated"
         }, 
         {
@@ -112,13 +112,33 @@
         }, 
         {
             "location": "/reporting/reporting-basics/", 
-            "text": "Reporting Tips\n\uf0c1\n\n\n\n\nReporting Tips from Smartsheet\n\n\nSending \n Sharing Reports\n\n\nAssigning People to a Task\n\n\nManaging Contacts\n\n\n\n\nComing soon...", 
+            "text": "Reporting Tips\n\uf0c1\n\n\n\n\nReporting Tips from Smartsheet\n\n\nSending \n Sharing Reports\n\n\nAssigning People to a Task\n\n\nManaging Contacts", 
             "title": "Reporting Basics"
         }, 
         {
             "location": "/reporting/reporting-basics/#reporting-tips", 
-            "text": "Reporting Tips from Smartsheet  Sending   Sharing Reports  Assigning People to a Task  Managing Contacts   Coming soon...", 
+            "text": "Reporting Tips from Smartsheet  Sending   Sharing Reports  Assigning People to a Task  Managing Contacts", 
             "title": "Reporting Tips"
+        }, 
+        {
+            "location": "/reporting/new-process/", 
+            "text": "Scheduling A Person For An Event\n\uf0c1\n\n\n\n\nWhen scheduling a person for any of the positions \nYOU MUST\n select their name from the drop-down list of the appropriate category/column (ie: Driver).\n\n\nEach positions column (Driver, Admin, Event Manager, Announcer, Judge, Training) has been populated with the \nfull list\n of current events team members. \nThis list is available via Google Drive in the following path: DOCKDOGS --\n 2016 --\n DD USA --\n STAFFING --\n \"16 DockDogs - Smartsheet List of People\"\n. You can also access it via \nclicking here\n.\n\n\n\n\nWhat You Absolutely Must Not Do\n\uf0c1\n\n\n\n\nIMPORTANT - THE MOST IMPORTANT THING EVER!\n\n\n__\nIT IS IMPERATIVE THAT YOU ABSOLUTELY NEVER SIMPLY TYPE A PERSONS NAME INTO ANY OF THE POSITIONS ROWS, ALWAYS USE THE DROPDOWN MENU TO SELECT SOMEONE\n_\n\n\n\n\n\n\nIn the event of a situation where you need to have notes about how there are special circumstances such as \nVince is driving to the event site and working only setup and Friday and then Sean will work Saturday and Sunday\n please use the \nNOTES\n function in Smartsheet to include these specifics. This is to ensure no modifications are entered into the columns for assigning schedules.\n\n\nThe same holds true for when someone is training, simply enter their name via the dropdown menu for the TRAINING column, enter whatever details about their position such as \nAmanda Gill will be training as ADMIN at FOUR COURNERS PET EXPO\n using the \nNOTES\n feature in Smartsheet for this events row.\n\n\n\n\nAdding a New Person to DockDogs Events Team\n\uf0c1\n\n\n\n\nWhen \nBRIAN SHARENOW\n adds a new person to the events team and notifies \nBRIAN KING\n to create their Smartsheet schedule, \nBRIAN KING\n will add this persons name to each position's \n(Driver, Judge, Wrangler, Announcer, Event Manager, Admin, Training)\n dropdown selections.\n\n\nBrian King will then log their schedule URL in the Google Sheet.\n\n\n\n\n\n\nIMPORTANT\n\n\nTHERE IS A GOOGLE SHEET FOUND INSIDE OF GOOGLE DRIVE WHICH HAS EACH TEAM MEMBERS SMARTSHEET URL INSIDE OF IT. THIS CAN BE FOUND BY NAVIGATING TO THE FOLLOWING DIRECTORY: DOCKDOGS --\n 2016 --\n DD USA --\n STAFFING --\n \"2016 DockDogs Smartsheet - Reports URLs for events team\".", 
+            "title": "Scheduling Team Members Procedure"
+        }, 
+        {
+            "location": "/reporting/new-process/#scheduling-a-person-for-an-event", 
+            "text": "When scheduling a person for any of the positions  YOU MUST  select their name from the drop-down list of the appropriate category/column (ie: Driver).  Each positions column (Driver, Admin, Event Manager, Announcer, Judge, Training) has been populated with the  full list  of current events team members.  This list is available via Google Drive in the following path: DOCKDOGS --  2016 --  DD USA --  STAFFING --  \"16 DockDogs - Smartsheet List of People\" . You can also access it via  clicking here .", 
+            "title": "Scheduling A Person For An Event"
+        }, 
+        {
+            "location": "/reporting/new-process/#what-you-absolutely-must-not-do", 
+            "text": "IMPORTANT - THE MOST IMPORTANT THING EVER!  __ IT IS IMPERATIVE THAT YOU ABSOLUTELY NEVER SIMPLY TYPE A PERSONS NAME INTO ANY OF THE POSITIONS ROWS, ALWAYS USE THE DROPDOWN MENU TO SELECT SOMEONE _    In the event of a situation where you need to have notes about how there are special circumstances such as  Vince is driving to the event site and working only setup and Friday and then Sean will work Saturday and Sunday  please use the  NOTES  function in Smartsheet to include these specifics. This is to ensure no modifications are entered into the columns for assigning schedules.  The same holds true for when someone is training, simply enter their name via the dropdown menu for the TRAINING column, enter whatever details about their position such as  Amanda Gill will be training as ADMIN at FOUR COURNERS PET EXPO  using the  NOTES  feature in Smartsheet for this events row.", 
+            "title": "What You Absolutely Must Not Do"
+        }, 
+        {
+            "location": "/reporting/new-process/#adding-a-new-person-to-dockdogs-events-team", 
+            "text": "When  BRIAN SHARENOW  adds a new person to the events team and notifies  BRIAN KING  to create their Smartsheet schedule,  BRIAN KING  will add this persons name to each position's  (Driver, Judge, Wrangler, Announcer, Event Manager, Admin, Training)  dropdown selections.  Brian King will then log their schedule URL in the Google Sheet.    IMPORTANT  THERE IS A GOOGLE SHEET FOUND INSIDE OF GOOGLE DRIVE WHICH HAS EACH TEAM MEMBERS SMARTSHEET URL INSIDE OF IT. THIS CAN BE FOUND BY NAVIGATING TO THE FOLLOWING DIRECTORY: DOCKDOGS --  2016 --  DD USA --  STAFFING --  \"2016 DockDogs Smartsheet - Reports URLs for events team\".", 
+            "title": "Adding a New Person to DockDogs Events Team"
         }, 
         {
             "location": "/reporting/pre-built-sponsors-report/", 

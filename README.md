@@ -1,4 +1,4 @@
-#README
+# DockDogs Scheduling Documentation
 
 [![Build Status](https://travis-ci.org/DockDogs/dockdogs-scheduling.svg?branch=master)](https://travis-ci.org/DockDogs/dockdogs-scheduling)
 
@@ -6,7 +6,7 @@
 
 * [DockDogs Scheduling Site Documentation](http://smartsheet.bigairdogs.org). Generated with [MKDocs](http://mkdocs.org)
 
-### Pre-requesites 
+### Pre-requesites
 
 * [Git](http://github.com)
 * [MkDocs](http://mkdocs.org) or check the [MkDocs Github Repository](https://github.com/mkdocs/mkdocs/)
@@ -25,7 +25,7 @@
 
 ### How to Edit
 
-* Edit files in `docs` folder using a text editor such as Atom, SublimeText, or Notepad++. 
+* Edit files in `docs` folder using a text editor such as Atom, SublimeText, or Notepad++.
 * Files are written in `Markdown` syntax. Learn more about `Markdown` syntax at at [DaringFireball](https://daringfireball.net/projects/markdown/) or [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Github also has an official [Markdown reference guide](https://help.github.com/articles/markdown-basics/).
 
 ### Deploying Edits to Production Environment
@@ -37,7 +37,7 @@
 * Confirm updates are live & accessible via accessing [http://smartsheet.bigairdogs.org](http://bigairdogs.org). _This may take a few minutes to fully deploy, please be patient._
 
 
-#### Deployment Status 
+#### Deployment Status
 
 [![Deployment status from DeployBot](https://dockdogs.deploybot.com/badge/77558059970570/58385.svg)](http://deploybot.com)
 

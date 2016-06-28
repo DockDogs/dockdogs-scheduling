@@ -40,6 +40,12 @@
     </url>
         
     <url>
+     <loc>None/reporting/new-process/</loc>
+     <lastmod>2016-06-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>None/reporting/pre-built-sponsors-report/</loc>
      <lastmod>2016-06-27</lastmod>
      <changefreq>daily</changefreq>
